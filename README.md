@@ -1,2 +1,4 @@
-# sudoankit.github.io
-Academic Blog and Personal Website using Jekyll. 
+# sudoblog.tex
+
+My academic blog.
+

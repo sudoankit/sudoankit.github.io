@@ -1,0 +1,18 @@
+# Site settings
+title: Q.E.D
+email: ankitpanda1014@gmail.com
+description: "Computer Vision + Deep Learning + Neuroscience"
+baseurl: ""
+url: "http://sudoankit.github.io"
+twitter_username: sudoankit
+github_username:  sudoankit
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
