@@ -345,6 +345,14 @@ a:visited { color: #205caa; }
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 
+/* Image */
+.img {
+  max-width: 100%; 
+  display:block; 
+  height: auto;
+}
+
+
 /* media queries */
 /* ----------------------------------------------------------*/
 

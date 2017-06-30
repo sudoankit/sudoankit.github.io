@@ -12,7 +12,7 @@ p {
 </style>
 
 * [ **May-July 2017** ] <u> Computer Vision and Augmented Reality Project </u> \\
-Working on an AR *project not disclosable yet*. Trust me, it's cool.
+Working on an AR *project not disclosable yet* for teaching young kids. Trust me, it's cool.
 
 
 * [ **December 2016** ] <u> ACM-ICPC Regionals @IIT-Kharagpur.</u> \\

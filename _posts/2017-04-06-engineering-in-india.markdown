@@ -16,7 +16,7 @@ Let’s analyze the examination results which came out for me last week. In a pa
 
 
 <div class="imgcap">
-<img src="/assets/engineering/classroom.jpeg" style="border:border:1px solid #021a40; width:35%;">
+<img src="/assets/engineering/classroom.jpeg" style="border:border:1px solid #021a40; width:45%;">
 <div class="thecap" style="text-align:center">
 Position of the students in the classroom, the coloured crosses denote the student in the respective mark group.
 </div>
@@ -25,7 +25,7 @@ Position of the students in the classroom, the coloured crosses denote the stude
 Let the image above be my classroom. I thought of plotting a graph because cheekily they say a picture says thousand words. This is what I got. ( of course xkcd style for you engineering nerds! )
 
 <div class="imgcap">
-<img src="/assets/engineering/scatter_eng.jpeg" style="border:none; width:50%;">
+<img src="/assets/engineering/scatter_eng.jpeg" style="border:none; width:60%;">
 <div class="thecap" style="text-align:center">
 Scatter plot plotted against the number of students versus their respective marks.
 </div>
@@ -46,7 +46,7 @@ I can’t because later, that night after a tiring day the engineering system ma
 The scatter plot should have been this.
 
 <div class="imgcap">
-<img src="/assets/engineering/outofbox.jpeg" style="border:none; width:50%;">
+<img src="/assets/engineering/outofbox.jpeg" style="border:none; width:60%;">
 <div class="thecap" style="text-align:center">
 Out of the box. Marks awarded not by the position in the class.
 </div>

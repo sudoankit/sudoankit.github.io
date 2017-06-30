@@ -1,7 +1,7 @@
 # Site settings
 title: Q.E.D
 email: ankitpanda1014@gmail.com
-description: "Computer Vision + Deep Learning + Neuroscience"
+# description: "Computer Vision $\cap$ Neuroscience $\cap$ Mathematics"
 baseurl: ""
 url: "http://sudoankit.github.io"
 twitter_username: sudoankit

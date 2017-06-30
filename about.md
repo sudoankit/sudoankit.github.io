@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+mathjax: true
 ---
 
 <style>
@@ -12,28 +13,15 @@ p {
 
 Hi, I'm [Ankit Panda](https://sudoankit.github.io/resume/) from India and [@sudoankit](http://sudoankit.github.io) from the internet.
 
-CS Undergrad interested in <u>statistics, machine learning, cognitive neuroscience, deep learning, computer vision, mixed reality and pure mathematics.</u>
+Computer science undergraduate interested in <b>computer vision and graphics, mathematics, computational and affective neuroscience, perceiving systems and autonomous machines.</b>
 
-I also appreciate [art](http://lushpin.com) and watch science fiction movies, TV or thriller, psychological and shōnen anime.
-
-Recent advances in nanomedicine, mixed reality and deep vision is firing me up. I believe <u>the future that's about to come would make our minds a better and clearer place to think more deeper.</u> 
-
-I'm very much thoughtful of the social issues that's arising and hope one day I would elimate some of the maladies in the society.
+I also appreciate some forms of [art](http://lushpin.com) and watch science fiction movies, TV or thriller, psychological and shōnen anime. Huge, huge  [Rick and Morty](https://www.rottentomatoes.com/tv/rick_and_morty/) fan.
 
 While I’m not digging into any of that, I read, cook, draw stick figures, hit the gym, swim, listen to pop, alternate or country and write literature. 
 
----
-
 Click my name above for my résumé or <a href="https://sudoankit.github.io/resume/">here.</a> 
-
----
-
 
 
 <!-- <div class="imgleft">
 	<img source src="{{ site.baseurl }}/sudoankit.png">
 </div> -->
-
-
-
-

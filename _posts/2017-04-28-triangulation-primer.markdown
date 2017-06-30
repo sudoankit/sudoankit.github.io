@@ -78,7 +78,7 @@ In 1934, Delaunay ( Delone, _Class. Sci. Nat._ (1934), 793–800.
 Let's proceed and define what *edge flipping* is.
 
 <div class="imgcap">
-<img src="/assets/triangulation/traingulation.png" style="border:none; width:20%;">
+<img src="/assets/triangulation/traingulation.png" style="border:none; width:30%;">
 <div class="thecap" style="text-align:center">
 The Triangulation of a group of points.
 </div>
@@ -93,7 +93,7 @@ Change in angle vector, that is, $ \alpha_1,\ldots,\alpha_6 $ are replaced by $\
 **Lemma 1.** The edge $ \overline{p_i p_j}$ is illegal if and only if $p_l$ lies in the interior of the circle $C$.
 
 <div class="imgcap">
-<img src="/assets/triangulation/interior.png" style="border:none; width:20%;">
+<img src="/assets/triangulation/interior.png" style="border:none; width:30%;">
 <div class="thecap" style="text-align:center">
 The circumcircle of any triangle of $T$ does not contain a point of $P$ in its interior.
 </div>
