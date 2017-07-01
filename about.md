@@ -21,6 +21,8 @@ While I’m not digging into any of that, I read, cook, draw stick figures, hit 
 
 Click my name above for my résumé or <a href="https://sudoankit.github.io/resume/">here.</a> 
 
+<!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and counter strike tournaments, I'm in! -->
+
 
 <!-- <div class="imgleft">
 	<img source src="{{ site.baseurl }}/sudoankit.png">

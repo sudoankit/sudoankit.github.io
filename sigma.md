@@ -37,7 +37,7 @@ The ratings are totally personal which will differ from person to person.
 
 
 
-### Popcorn, TV and Isomania. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+### Popcorn, TV and Insomnia. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 ---
 
 Huehuehuehuehuehue. "Insert ducks laughing meme here"
@@ -48,7 +48,7 @@ Huehuehuehuehuehue. "Insert ducks laughing meme here"
 - [	Fast & Furious 6 (2013)](http://www.imdb.com/title/tt1905041/) [June, 2017]
 - [Guardians of the Galaxy 2](http://www.imdb.com/title/tt3896198/) [ _It's g(r)oood!_ ][ May, 2017 ] &#x2605;
 - [Logan](http://www.imdb.com/title/tt3315342/) [<font color="red">Man, I cried.</font>] [May, 2017] <font color="gold">&#x2605;</font>
-- [Doctor Strange]()[]
+
 
 ### Video Games
 ---
