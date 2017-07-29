@@ -42,13 +42,16 @@ The ratings are totally personal which will differ from person to person.
 
 Huehuehuehuehuehue. "Insert ducks laughing meme here"
 
+- [Spiderman Homecoming, 2017]
+- [Rogue One] &#x2605;
 - [Kong: Skull Island](http://www.imdb.com/title/tt3731562/) [<font color="red">DON'T WATCH!</font>] [June, 2017]
 - [Fate of the Furious](http://www.imdb.com/title/tt4630562/) [Submarine!] [June, 2017] &#x2605; 
 - [	Furious 7](http://www.imdb.com/title/tt2820852/) &#x2605; [June, 2017]
 - [	Fast & Furious 6 (2013)](http://www.imdb.com/title/tt1905041/) [June, 2017]
 - [Guardians of the Galaxy 2](http://www.imdb.com/title/tt3896198/) [ _It's g(r)oood!_ ][ May, 2017 ] &#x2605;
 - [Logan](http://www.imdb.com/title/tt3315342/) [<font color="red">Man, I cried.</font>] [May, 2017] <font color="gold">&#x2605;</font>
-
+- [Doctor Strange][Suddenly, my favourite superhero movie.]
+- [Moana][Fluid Simulation to extremes]
 
 ### Video Games
 ---

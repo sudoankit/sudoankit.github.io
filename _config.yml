@@ -1,11 +1,14 @@
 # Site settings
 title: Q.E.D
 email: ankitpanda1014@gmail.com
-# description: "Computer Vision $\cap$ Neuroscience $\cap$ Mathematics"
+# description: "Computer Vision $\cap$ Computer Graphics $\cap$ Mathematics"
 baseurl: ""
 url: "http://sudoankit.github.io"
 twitter_username: sudoankit
 github_username:  sudoankit
+
+
+future: true
 
 # Build settings
 markdown: kramdown
@@ -16,3 +19,4 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
