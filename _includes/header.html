@@ -2,7 +2,7 @@
 
   <div class="wrap">
 
-<a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/eye2.jpg" width="65"></a> 
+<a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/b12.jpg" width="80"></a><!--  /* image from https://www.scientias.nl/tweede-vuilniswagen-ontdekt-in-de-hersenen/ */ -->
      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> 
 
     <nav class="site-nav">
@@ -18,6 +18,7 @@
         </svg>
       </a>
       <div class="trigger">
+        <a class="site-title" href="http://127.0.0.1:7004"><img src="{{ site.baseurl }}/arrow3.png" width="120"> <a href ="http://127.0.0.1:7004"><strong>Math</strong></a> 
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
