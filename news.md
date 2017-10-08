@@ -11,12 +11,14 @@ p {
 }
 </style>
 
+* [**October 2017**] A new <strong>startup</strong> is brewing.<br> I'll update soon! It's going to be exciting!
+<i><strong>Vision, Intelligence and Reality for a better future.</strong></i>
+
 * [**August 2017**] <u> #UnitedByHCL Hackathon </u>
-Got <strong>selected for onsite finals at Trafford, Manchester, UK!</strong> (September 15th) Gearning up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
+<br><font color="red">WON THE HACKATHON, FIRST PRIZE 5000$</font><br><del> Got <strong>selected for onsite finals at Trafford, Manchester, UK!  </strong> (September 15th)</del> .Gearning up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
 
-* [**August 2017**] <u> Mostly working on Computer Graphics </u>  
+* [**July-August 2017**] <u> Mostly working on Computer Graphics </u>  
 PBR Techiniques, Shaders, Image Processing, L-systems and a little bit DirectX.
-
 
 * [**May-July 2017**] <u> Computer Vision and Augmented Reality Project </u>
 Working on PlutoAR, an Augmented Reality *project not disclosable yet* for teaching young kids. <br>Trust me, it's cool. <br> <font color="red">UPDATE</font>, Aug 2017, we'll soon release the public version!

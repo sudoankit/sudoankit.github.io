@@ -11,17 +11,31 @@ p {
 }
 </style>
 
-Hi, I'm [Ankit Panda](https://sudoankit.github.io/resume/) from India and [@sudoankit](http://sudoankit.github.io) from the internet.
+Hi, I'm [Ankit Panda](https://sudoankit.github.io/resume/). 
 
-Computer science undergraduate interested in <b>computer vision and graphics, mathematics, computational and affective neuroscience, perceiving systems and autonomous machines.</b>
+<div class="imgright">
+<img src="/drone2.png" width="20%"></div>
+<div class="thecap">
+ <font size="1px"> .......ahhhhh!</font>
+</div>
 
-I also appreciate some forms of [art](http://lushpin.com) and watch science fiction movies, TV or thriller, psychological and shōnen anime. Huge, huge  [Rick and Morty](https://www.rottentomatoes.com/tv/rick_and_morty/) fan.
+My interest is an interection of these: Computer Vision $\cap$ Autonomous Machines $\cap$  Control and Guidance in extreme environments $\cap$ Augmented Reality $\cap$ Aerospace Engineering 
+with applications in Astronomy $\cup$ Geoscience $\cup$ Sustainable Energy.
+
+Mathematics though has, is and will always remain in my heart.
+
+My Ideology. 
+>Take the species forward!
+
+<hr>
+
+I also appreciate some forms of [art](http://lushpin.com) and watch science fiction movies, TV or thriller, mystery and shōnen anime. Huge, huge [Rick and Morty](https://www.rottentomatoes.com/tv/rick_and_morty/) fan.
 
 While I’m not digging into any of that, I read, cook, draw stick figures, hit the gym, swim, listen to pop, alternate or country and write literature. 
 
 Click my name above for my résumé or <a href="https://sudoankit.github.io/resume/">here.</a> 
 
-<!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and counter strike tournaments, I'm in! -->
+<!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and exotic trips, I'm in! -->
 
 
 <!-- <div class="imgleft">

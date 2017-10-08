@@ -2,8 +2,8 @@
 layout: post
 <!-- comments: true -->
 title: "Bits, Bytes and Color - [PREVIEW]" 
-excerpt: "A 16-bit exploration into DOS Graphics Programming"
-date: 2017-08-21 07:31:03 +0530
+excerpt: "A 16-bit exploration into DOS Graphics Programming."
+date: 2017-09-30 07:31:03 +0530
 mathjax: true
 
 ---
@@ -35,34 +35,9 @@ Before we start the details, I recommend you to go and play [[<u>Battlezone</u>]
 </div>
 </div>
 
-### What is computer graphics?
+<hr>
 
-It's everything on the screen. Everything. Points. Lines. Polygons. Tanks. Cats. Colour. Animation. UI Design. What you see on the electronic screen of yours is graphics. 
-
-Before we start "graphics", let's go into some simple terms and explain what they mean. Mainly let's focus on the primitives first.
-
-* Screen
-
-* Resolution
-
-* Aspect Ratio
-
-* Perspective
-
-* Frame
-
-* Point, Lines
-
-#### Screen
-
-> The thing you're looking at now. 
-
-Some of the earliest home computers (such as the TRS-80 and Commodore PET) were limited to monochrome CRT displays, but color display capability was already getting hotter. Apple and Atari were making newer, slimmer models of colour screens that were selling as hot cakes for tech enthusiasts.
- 
+<font color="red"><center> I'm super busy and though I want to update this post which has been in "preview" mode from August end, I can't. I'm sorry. It'll take me time thus, this post goes into infinite date of release mode. </center></font>
 
 
-<center><font color="red">Under construction. Tentative Release: 27th September. </font> </center>
-<center><font color="red">Under construction. Tentative Release: 27th September. </font> </center>
-<center><font color="red">Under construction. Tentative Release: 27th September. </font> </center>
-<center><font color="red">Under construction. Tentative Release: 27th September. </font> </center>
-
+<hr>
