@@ -15,7 +15,7 @@ p {
 <i><strong>Vision, Intelligence and Reality for a better future.</strong></i>
 
 * [**August 2017**] <u> #UnitedByHCL Hackathon </u>
-<br><font color="red">WON THE HACKATHON, FIRST PRIZE 5000$</font><br><del> Got <strong>selected for onsite finals at Trafford, Manchester, UK!  </strong> (September 15th)</del> .Gearning up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
+<br><font color="red">WON THE HACKATHON, FIRST PRIZE 5000$</font><br><del> Got <strong>selected for onsite finals at Trafford, Manchester, UK!  </strong> (September 15th)</del>. Gearing up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
 
 * [**July-August 2017**] <u> Mostly working on Computer Graphics </u>  
 PBR Techiniques, Shaders, Image Processing, L-systems and a little bit DirectX.
