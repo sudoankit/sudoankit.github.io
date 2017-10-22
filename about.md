@@ -11,36 +11,36 @@ p {
 }
 </style>
 
-Hi, I'm [Ankit Panda](https://sudoankit.github.io/resume/). 
+Hi, I'm $\Lambda$n$\kappa$it Panda.
 
-<div class="imgright">
-<img src="/dronef.png" width="20%">
-</div>
-<div class="imgcap" style="text-align:left">Taking the species forward!</div>
+My interests include algrebraic topology $\cup$ differential topology $\cup$ number theory $\cup$ Reimann geometry $\cup$ partial differential equations in pure mathematics. 
+
+I also do applied mathematics in areas of computational fluid dynamics $\cup$ astronomy $\cup$ physics $\cup$ biology. 
+
+This blog is mostly about my ideas and views on solving the problems of the future, thinking about the future, space explorations, mathematics, engineering and philosophy. (though for all mathematics post switch to Math  mode which for your ease a guidance arrow has been drawn.)
 
 
-My interest is an interection of these: Computer Vision $\cap$ Autonomous Machines $\cap$  Control and Guidance in extreme environments $\cap$ Augmented Reality $\cap$ Aerospace Engineering 
-with applications in Astronomy $\cup$ Geoscience $\cup$ Sustainable Energy.
 
-Mathematics though has, is and will always remain in my heart.
+In case you're wondering what the title means, "Zvezda", it's Russian for **Star** (Звезда́). Also, it's a module of the ISS which provides life support for the crew.
 
+The picture is of the Calabi-Yau manifold with $n = 5$. 
+
+The Calabi-Yau manifold which is visualized is a 2D slice through a 6-dimensional manifold in a projective space expressed as the 4D manifold $z^5_1 + z^5_2 = 1.$ We can calculate $z_1$ and $z_2$ from: 
+
+$$z_1(\theta, \xi, \kappa_1) = e^{ \frac{2\pi i k_1}{n}} \cosh(\theta + \xi i)^{\frac{2}{n}}    $$
+
+$$i \cdot z_2(\theta, \xi, \kappa_2) = e^{ \frac{2\pi i k_2}{n}} \sinh(\theta + \xi i)^{\frac{2}{n}}    $$
+
+`MATLAB` was used to draw the figure using the following imformation from Hanson's [paper](https://www.cs.indiana.edu/~hansona/papers/CP2-94.pdf).
 
 <hr>
 
-I also appreciate some forms of [art](http://lushpin.com) and watch science fiction movies, TV or thriller, mystery and shōnen anime. Huge, huge [Rick and Morty](https://www.rottentomatoes.com/tv/rick_and_morty/) fan.
-
-While I’m not digging into any of that, I read, cook, draw stick figures, hit the gym, swim, listen to pop, alternate or country and write literature. 
-
-Click my name above for my résumé or <a href="https://sudoankit.github.io/resume/">here.</a> 
+My CV is published online <a href="https://sudoankit.github.io/resume/">here.</a> 
 
 <hr>
-
-In case you're wondering what the title means, "Zvezda", it's Russian for **Star** (Звезда́). It's from a module of the ISS which provides life support for the crew.
-
-The picture/logo is also interesting if you look closely below. ;) 
-
-<img src="/logo_blog.svg" width="70%">
-<div class="imgcap" style="text-align:left">Made using logos from Noun Project, CC-2 Licensed. Found anything fun?</div>
+Also, 
+> $\int$(Mathematics + Science + Engineering + Pizza) $=$ Future.  
+> -- A.
 
 <!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and exotic trips, I'm in! -->
 

@@ -284,10 +284,17 @@ hr {
 /* AK custom CSS mods + Modified @sudoankit*/
 .imgright { float: right; margin-left: 10px; }
 .imgleft {float: left; margin-left: 10px;}
+
+.imgd img {
+max-width: 100%;
+}
+
 .imgcap img {
   border: 1px solid #999;
   max-width: 100%;
 }
+
+
 .imgcap {
   color: #555;
   font-size: 12px;

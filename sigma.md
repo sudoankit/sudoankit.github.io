@@ -39,13 +39,20 @@ The symbol '<font color="gold">&#x2605;</font>' means <u>legendary</u> which you
 
 The ratings are totally personal which will differ from person to person.
 
+- Godël, Escher, Bach: an Eternal Golden Braid, Douglas R. Hofstadter [ <font color="red">Reading, finally</font>  ] 
+- Elon Musk, How the billionaire CEO of SpaceX and Tesla is shaping our future, Ashely Vance [ <font color="red">Reading.</font>  ] 
 - TimeRiders: The Infinity Cage, Alex Scarow [ <font color="red">Reading</font>  ] 
 - <del>[Murder on the Orient Express, Agatha Christie](https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express) </del> [ 2017, January ]
 - <del>[The Devotion Of Suspect X, Keigo Higashino](https://en.wikipedia.org/wiki/The_Devotion_of_Suspect_X)</del> [ 2016, December] &#x2605;
 - [A Game of Thrones, George R. R. Martin](https://en.wikipedia.org/wiki/A_Game_of_Thrones) [<font color="red"> Temporary hiatus</font> ] [2016, August] (reading for the hype)
+- <del>The Martian, Andy Weir.</del> [2015, June] <font color="gold">&#x2605;</font>
 - [Steve Jobs, Walter Isaacson](http://www.goodreads.com/book/show/11084145-steve-jobs) [ <font color="red">Unfinished</font> ][2016, June]
 - <del>[What If?: Serious Scientific Answers to Absurd Hypothetical Questions, Randall Munroe](http://www.goodreads.com/book/show/21413662-what-if)</del> [2015, October]&#x2605;
-
+- The Physics of the Impossible, Michio Kaku
+- <del>Artemis Fowl series, Eoen Colfer </del>
+- <del>Percy Jackson series, Rick Riordan </del>
+- <del>Angel and Demons <font color="gold">&#x2605;</font>, The Digital Fortress &#x2605;, The Da Vinci Code &#x2605;, Deception Point &#x2605;, Lost Symbol and Inferno, Dan Brown. </del> 
+- <del>61 Hours, One Shot, Bad Luck and Trouble, Worth Dying For. Lee Child </del>
 
 
 ### Popcorn, TV and Insomnia. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
@@ -78,7 +85,7 @@ I used to play video games but then I took a FUS RO DAH to the knee. [[Skyrim]](
 - [Space Plan, Devolver Digital](https://itunes.apple.com/us/app/spaceplan/id1200864554?mt=8) [iOS] [Black Holes, Dimensional Teleporters, Potatoes] [June, 2017] &#x2605;
 - [Monument Valley 2, ustwo](https://itunes.apple.com/us/app/monument-valley-2/id1187265767?mt=8) [iOS] [Art, Art, Puzzle, M. C. Escher, Love] [June, 2017] &#x2605;
 - [Metal Gear Solid V: The Phantom Pain, Konami](http://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/) [PC] [ [Fulton](https://en.wikipedia.org/wiki/Fulton_surface-to-air_recovery_system), Skulls, Snakes ] &#x2605;
-- [Little Nightmares](http://www.little-nightmares.com) [Medium Horror] [PC] [Steampunk, Art, Weird]
+
 
 <!-- - [Inside, Playdead]()
 - [Far Cry 3, Ubisoft]()
