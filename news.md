@@ -12,7 +12,7 @@ p {
 </style>
 
 
-* [**November 2017**] I'm going to be <font color="red">inactive</font> in the forthcoming months for I have a very crucial and important exam coming up! See ya soon in March!
+* [**November 2017**] Working full time for my startup with a strong social vision with some brilliant folks.
 
 * [**October 2017**] A new <strong>startup</strong> is brewing.<br> I'll update soon! It's going to be exciting!
 <i><strong>Vision, Intelligence and Reality for a better future.</strong></i>

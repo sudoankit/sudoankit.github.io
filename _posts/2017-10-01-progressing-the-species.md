@@ -1,9 +1,9 @@
 ---
 layout: post
 <!-- comments: true -->
-title: "Progressing the Species" 
-excerpt: "What I believe will matter in the future."
-date: 2017-11-01 +0530
+title: "Progressing the Species Series" 
+excerpt: "Collection of essays on - What I believe will matter in the future."
+date: 2017-10-14 +0530
 mathjax: true
 
 ---
@@ -21,53 +21,65 @@ Science should be open and for the progress of the species as whole. This got me
 
 >How we could change today for tomorrow. What to concetrate on. What I think/predict will matter later and also why should we think about this. 
 
-<!-- <div class="imgcap">
+<div class="imgcap">
 <img src="/assets/progress/1.jpg">
 <div class="thecap" style="text-align:center">
-We need to save her. [<a href="http://hdlatestwallpaper.com/wp-content/uploads/2017/07/Earth-view-from-space-HD-wallpaper.jpg">source</a>] 
-</div>
-</div> -->
-
-### Data
-
-Data tells a lot of stories. Data can be used in lot of stories. Data in raw isn't useful. It needs to be cleaned and scrubbed. It needs a pipeline where the raw data input is processed into the useful. 
-
-Data science has been in an exponential rise in these years. You know that but what you don't is what to think about in the future. 
-
-Is it machine learning you ask? I say dig deeper. Machine learning isn't just a topic. It's vast like it's applications. 
-
-<div class="imgd">
-<img src="/assets/progress/2.png" style="width:100%;">
-<div class="thecap" style="text-align:center">
-The pipeline of data processing. © sudoankit, CC by 2.0 Licensed.
+Beautiful. [<a href="http://hdlatestwallpaper.com/wp-content/uploads/2017/07/Earth-view-from-space-HD-wallpaper.jpg">source</a>] 
 </div>
 </div>
 
-Investing time to research and perfect these areas is crucial to automate life in the future. There are a lot of scenarios where probabilistic methods can be applied to real probelems. Some of the best I have thought are below,
+### Hitting the Real Problems, _Hard!_
 
-1. Neural Network to understand different computer viruses and a reverse engineered module to break the virus and patch the firewall in realtime.
+We _need_ something. We _need_ something all the time. It's this desire and comfort of life that fuels us to create solutions for the _need_.
 
-2. Optimizations in financial sector, especially in developing areas/countries.
+...but look ahead. Look what's not possible. The impossible question. Questions. 
 
-3. Quality data set building through deep learning which correlates to actual (experimental) data.
+- Global Warming
 
-4. Focus on science streams like geology, astronomy, oceanography, space etc. 
+- War
 
-5. Systems that teach other systems. Evolutionary algorithms, etc.
+- Child Trafficking 
 
-This is just a small list of all the ideas you can have. Just follow the three step process of engineering. 
+- Quality Education
 
-<div class="imgd">
-<img src="/assets/progress/3.png" style="width:80%;">
-<div class="thecap" style="text-align:center">
-The engineering cycle © sudoankit, CC by 2.0 Licensed.
-</div>
-</div>
+- Sea Level Rise
+
+- AI Jobs
+
+- Singularity
+
+- Education Equality to all
+
+- Agriculture
+
+- Sustainable Cities and Energy
+
+- Pollution
+
+- Psychology of Everyday Thinking
+
+- Africa 2025
+
+- Space Exploration
+
+- Virtual and Augemented Reality
+
+These are just some of areas which in the future will matter. There are a lot of people in this world who are running like sheep. 
+
+Amidst the cacophony of usual sheep running aimless you need to be the alpha. You need to think ten years ahead. Don't follow the sheep which is chasing trends. 
+
+Everything is connected. Let's go one by one for each of the points above that I have outlined. In the next few months I will periodically write researched essays on each of the topics I just listed above starting from the down.
+
+Stay Tuned! 
+
+<!-- #### Global Warming
+
+Since the Industrial Revolution began in about 1750, carbon dioxide levels have increased nearly 38 percent as of 2009 and methane levels have increased 148 percent.<sup><a href="#fn1" id="ref1">1</a></sup>
+
+Total killer to the planet. Natural radiation is necessity but too much of it kills the planet. 
 
 <hr>
 
-<center>Work in Progress, ETA Nov 1</center>
+<sup id="fn1">1. Riebeek, H. (2010). Global warming: Feature articles. <i>NASA Earth Observatory</i><a href="#ref1">↩</a></sup> -->
 
-<center>Work in Progress, ETA Nov 1</center>
 
-<center>Work in Progress, ETA Nov 1</center>

@@ -13,13 +13,17 @@ p {
 
 Hi, I'm $\Lambda$n$\kappa$it Panda.
 
-My interests include algrebraic topology $\cup$ differential topology $\cup$ number theory $\cup$ Reimann geometry $\cup$ partial differential equations in pure mathematics. 
-
-I also do applied mathematics in areas of computational fluid dynamics $\cup$ astronomy $\cup$ physics $\cup$ biology. 
-
-This blog is mostly about my ideas and views on solving the problems of the future, thinking about the future, space explorations, mathematics, engineering and philosophy. (though for all mathematics post switch to Math  mode which for your ease a guidance arrow has been drawn.)
+I work on Computer Vision and Graphics $\cup$ Intelligence and Neuroscience $\cup$ Interactions and Interfaces.
 
 
+In mathematics my interests include algrebraic topology $\cup$ differential topology $\cup$ number theory $\cup$ Reimann geometry $\cup$ partial differential equations.
+
+
+This blog is mostly about my ideas and views on solving the problems of the future, thinking about the future, space explorations, on topics I work ( look above ), engineering, philosophy and most importantly the social work we could thinking about to help all.
+
+We have already been selfish and have invested on ourselves. It's time we invest on people. Not you or me, everyone.
+
+<hr>
 
 In case you're wondering what the title means, "Zvezda", it's Russian for **Star** (Звезда́). Also, it's a module of the ISS which provides life support for the crew.
 
@@ -39,7 +43,7 @@ My CV is published online <a href="https://sudoankit.github.io/resume/">here.</a
 
 <hr>
 Also, 
-> $\int$(Mathematics + Science + Engineering + Pizza) $=$ Future.  
+> $\int$(Mathematics + Science + Engineering + People) $=$ Future.  
 > -- A.
 
 <!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and exotic trips, I'm in! -->
