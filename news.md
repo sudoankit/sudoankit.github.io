@@ -12,10 +12,9 @@ p {
 </style>
 
 
-* [**November 2017**] Working full time for my startup with a strong social vision with some brilliant folks.
+* [**November 2017**] Working on Computer Vision and Augmented Reality Research with AKD Sir.
 
-* [**October 2017**] A new <strong>startup</strong> is brewing.<br> I'll update soon! It's going to be exciting!
-<i><strong>Vision, Intelligence and Reality for a better future.</strong></i>
+* [**October 2017**] Working on a paper on affordable AR Education.
 
 * [**August 2017**] <u> #UnitedByHCL Hackathon </u>
 <br><font color="red">WON THE HACKATHON, FIRST PRIZE 5000$</font><br><del> Got <strong>selected for onsite finals at Trafford, Manchester, UK!  </strong> (September 15th)</del>. Gearing up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
