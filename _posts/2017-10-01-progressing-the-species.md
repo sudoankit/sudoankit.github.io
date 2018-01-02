@@ -1,7 +1,7 @@
 ---
 layout: post
-<!-- comments: true -->
-title: "Progressing the Species Series" 
+comments: true
+title: "Progressing the Species " 
 excerpt: "Collection of essays on - What I believe will matter in the future."
 date: 2017-10-14 +0530
 mathjax: true

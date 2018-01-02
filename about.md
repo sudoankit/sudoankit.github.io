@@ -20,7 +20,7 @@ I work on Computer Vision $\cup$ Neuroscience $\cup$ Artificial Intelligence. ( 
 
 In mathematics my interests include algrebraic topology $\cup$ differential topology $\cup$ number theory $\cup$ Reimann geometry $\cup$ partial differential equations and computational fluid dynamics recently.
 
-I do maintain another sub-blog for mathematics and simulations which you can access above. A big large guidance arrow has been provided for ease of navigation. (lol, xD)
+I do maintain another sub-blog for mathematics and simulations which you can access above. A big large guidance arrow has been provided for ease of navigation.
 
 This blog is mostly about my thoughts, explorations and predications on the future, technology, world economy, sustainable cities and development and philosophy. Progress the species.
 

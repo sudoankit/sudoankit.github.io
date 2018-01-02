@@ -5,6 +5,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Cantarell|Megrim');
 
+/* highlighter */
+
+.yellow-highlight {
+  text-shadow: 
+    -3px 0px 3px yellow,
+     3px 0px 3px yellow,
+     6px 0px 6px yellow,
+    -6px 0px 6px yellow;
+}
 
 * {
   margin: 0;
