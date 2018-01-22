@@ -12,7 +12,7 @@ p {
 </style>
 
 
-* [**November 2017**] Working on Computer Vision and Augmented Reality Research with AKD Sir.
+* [**November, '17---**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [AKD Sir](https://sites.google.com/site/dashkajaya/home).
 
 * [**October 2017**] Working on a paper on affordable AR Education.
 

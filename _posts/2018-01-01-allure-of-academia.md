@@ -18,8 +18,7 @@ p {
 
 It's 2018. I knew this year is going to be great. I just feel it. I am transistioning slowly into academia and I thought why not make 2018 the best of it? So, my resolution is an ambitious one. 
 
-Every month, select a highly cited paper on <span class="yellow-highlight">computer vision, human computer interaction and brain computer interfaces, pattern recognition and machine learning, computational photography, neuroscience, mathematics and artificial intelligence</span>, and write up a post, an article about on it, visually. Illustrations, animations, implementations and some intuition. I believe this would make me read a lot of papers as well as learn by implementing them. Posting my observations and understanding on the internet, interested academics and also those in the industry might refer to my post and learn something. 
-
+Every month, I select a highly cited paper on my interests (look "About"), and write up a post, an article about on it, visually. Illustrations, animations, implementations and some intuition. I believe this would make me read a lot of papers as well as learn by implementing them. Posting my observations and understanding on the internet, interested academics and also those in the industry might refer to my post and learn something. 
 
 
 I totally want you all to input any comments, errors and anything you got in your mind to make this so much better. 
@@ -50,7 +49,7 @@ High readability, clean minimal look, all papers in one go.
 
 As you might have guessed, the first paper is going to be `Distinctive Image Features from Scale-Invariant Keypoints, 2004`, (SIFT), a highly cited (40k+) milestone papers in the world of computer vision by Prof. David Lowe.
 
-The webpage would go online by the third week on January, hopefully. <font color="blue">You will find the link below at the left of the main page.</font> As I peer review each post with my Professor, friends and try to be error-free, there still might be something overlooked or not properly explained. I do apologize and hope the community would correct them for the love of science!
+The webpage would go online by the final week of January, hopefully. <font color="blue">You will find the link below at the left of the main page.</font> As I peer review each post with my Professor, friends and try to be error-free, there still might be something overlooked or not properly explained. I do apologize and hope the community would correct them for the love of science!
 
 So yep, that's it! I hope you would enjoy reading as much as I have explaining and writing down!
 

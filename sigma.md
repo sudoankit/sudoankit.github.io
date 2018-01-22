@@ -10,9 +10,10 @@ comments: true
 p.box {
 	text-align: center; 
 	font-size: large;
-  border: 1px solid #ccc;
-  outline-color: black;
+  	border: 0.5px solid #ccc;
+  	outline-color: black;
 }
+
 </style>
 <p class="box">Welcome to $\Sigma$, a collection of links, reviews and similar. </p> 
 
@@ -39,6 +40,9 @@ The symbol '<font color="gold">&#x2605;</font>' means <u>legendary</u> which you
 
 The ratings are totally personal which will differ from person to person.
 
+- <del>[Origin, Dan Brown.](https://en.wikipedia.org/wiki/Origin_(Brown_novel))</del> [2017,Dec] &#x2605;
+Mixing evolutionary biology with simulations, artificial intelligence and religion. Sign me up!
+
 - Godël, Escher, Bach: an Eternal Golden Braid, Douglas R. Hofstadter [ <font color="red">Reading, finally</font>  ] 
 - Elon Musk, How the billionaire CEO of SpaceX and Tesla is shaping our future, Ashely Vance [ <font color="red">Reading.</font>  ] 
 - TimeRiders: The Infinity Cage, Alex Scarow [ <font color="red">Reading</font>  ] 
@@ -60,8 +64,9 @@ The ratings are totally personal which will differ from person to person.
 
 I watch mosly science fiction and animation.
 
-- [Blade Runner, 2017] <font color="gold">&#x2605;</font> Best Neo-noir post apocalyptic cyberpunk science fiction.
-- [Spiderman Homecoming, 2017] Meh.
+- [Dunkirk, December, 2017] <font color="gold">&#x2605;</font> Don't loose hope just like the sheppard's tone.
+- [Blade Runner 2049, November, 2017] <font color="gold">&#x2605;</font> Best Neo-noir post apocalyptic cyberpunk science fiction.
+- [Spiderman Homecoming, 2017] Meh. It's okay.
 - [Star Wars: Rogue One] &#x2605; The much needed filler.
 - [Kong: Skull Island](http://www.imdb.com/title/tt3731562/) [<font color="red">DON'T WATCH!</font>] [June, 2017]
 - [Fate of the Furious](http://www.imdb.com/title/tt4630562/) [Submarine!] [June, 2017] &#x2605; 
@@ -74,6 +79,7 @@ I watch mosly science fiction and animation.
 
 Hall of fame:
 
+- [Big Bang Theory S1-11] <font color="gold">&#x2605;</font> Nerds acting with humour.
 - [Rick and Morty S1-3] <font color="gold">&#x2605;</font> In Elon Musk's words, "Digustingly Good".
 - [The Grand Tour] <font color="gold">&#x2605;</font> Jezza, Captain Slow and Hamster + GWiz, 'nuff said.
 
