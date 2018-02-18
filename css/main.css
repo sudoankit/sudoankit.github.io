@@ -58,6 +58,7 @@ hr {
 }
 
 
+
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -296,6 +297,7 @@ hr {
 
 .imgd img {
 max-width: 100%;
+
 }
 
 .imgcap img {
@@ -352,10 +354,11 @@ max-width: 100%;
 .highlight .ss { color: #a31515 } /* Literal.String.Symbol */
 
 /* Image */
+
 .img {
   max-width: 100%; 
   display:block; 
-  height: auto;
+  
 }
 
 

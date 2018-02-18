@@ -10,6 +10,10 @@ github_username:  sudoankit
 
 future: true
 
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "/page:num/"
+
 # Build settings
 markdown: kramdown
 permalink: pretty

@@ -31,3 +31,40 @@ I learned some rigorous mathematics from Rienhard Diestel's book on [Graph Theor
 
 * [**August 2014**] <u>Joined IIIT-Bhubaneswar as an Computer Science Undergraduate.</u>  
 _I hope these four years will be a blast!_
+
+---
+
+## Blog Updates
+
+### Future
+
+Zvezda v.2.0
+* [TECH] AWS Lambda Integration.  
+* [FEAT] More jQuery and JS Explorables
+* [TECH] RSS Feed, Mailchimp integration.
+
+--- 2018 ---
+
+### March
+
+
+* [POST] Introducing Allure of Academia @60fps.
+* [POST] About PlutoAR. Finally.
+* [POST] [MATH] New Math Post. 
+
+### February
+
+* [POST] [AOA] First post, push website.
+* [POST] About school vists.
+* <del> [POST]  About headfakes. </del>
+
+### January 
+
+* <del>[POST] [Math] Langrange Multipliers.</del>
+* <del>[POST] Introducing Allure of Academia.</del>
+
+--- 2017 ---
+
+### December
+* <del> [FEAT] "Project" tab update. Zvezda v.0.4 </del> 
+* <del> [FEAT] Small fixes, optimizations for readability </del>

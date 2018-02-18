@@ -49,8 +49,8 @@ PlutoAR is an affordable, tangible Augmented Reality Interpreter for the K-10 Cu
 <p class="boxp">
 Designed a wifi "smart" plug which could be controlled using a web app through local network and measure the connected device energy comsumption using a Hall Sensor.
 </p>
-<p class="ex"><img class="imgr" src="/project-thumbnails/texteditorcpp.svg"> Pixel.txt: Made a C++ TextEditor with Image Manipulation Abilities </p>
+<!-- <p class="ex"><img class="imgr" src="/project-thumbnails/texteditorcpp.svg"> Pixel.txt: Made a C++ TextEditor with Image Manipulation Abilities </p>
 <p class="boxp">
 Designed a text editor using C++ using Qt Widgets which also has basic image processing features such as cropping, darkening, contrast slider and much more! Currently development is in temporary hiatus.
 </p>
-
+ -->

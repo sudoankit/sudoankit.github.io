@@ -28,7 +28,7 @@ My resume is published online <a href="https://sudoankit.github.io/resume/">here
 Hi, I'm Ankit, pretty much a **nerd.**
 
 <div class="imgcap">
-<img src="/assets/nerds.svg" style="border:border:1px solid #021a40; width:89%;"> <!-- Haha, prime number width -->
+<img src="/assets/nerds.jpg" style="border:border:1px solid #021a40; width:69%;"> <!-- Haha, width=69% -->
 <div class="thecap" style="text-align:center">
 This is the definition by the way.
 </div>

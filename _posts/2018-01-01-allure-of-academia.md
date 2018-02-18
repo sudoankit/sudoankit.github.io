@@ -47,9 +47,9 @@ High readability, clean minimal look, all papers in one go.
 
 <hr>
 
-As you might have guessed, the first paper is going to be `Distinctive Image Features from Scale-Invariant Keypoints, 2004`, (SIFT), a highly cited (40k+) milestone papers in the world of computer vision by Prof. David Lowe.
+As you might have guessed, the first paper is going to be `Distinctive Image Features from Scale-Invariant Keypoints, 2004`, (SIFT), a highly cited (40k+) milestone papers in computer vision by Prof. David Lowe.
 
-The webpage would go online by the final week of January, hopefully. <font color="blue">You will find the link below at the left of the main page.</font> As I peer review each post with my Professor, friends and try to be error-free, there still might be something overlooked or not properly explained. I do apologize and hope the community would correct them for the love of science!
+The webpage would go online by the final week of February, hopefully. <font color="blue">You will find the link below at the left of the main page.</font> As I peer review each post with my Professor, friends and try to be error-free, there still might be something overlooked or not properly explained. I do apologize and hope the community would correct them for the love of science!
 
 So yep, that's it! I hope you would enjoy reading as much as I have explaining and writing down!
 
