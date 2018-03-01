@@ -11,6 +11,12 @@ mathjax: true
 p {
   text-align: justify;
 }
+  img{opacity:0.5;}
+  img:hover{opacity:1;
+  border:solid black;
+  box-shadow:2px 1px grey;
+  }
+  
 </style>
 
 
