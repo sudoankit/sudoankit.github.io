@@ -19,7 +19,7 @@ p.box {
 
 </style>
 
-<p class="box"> <i>My research and focus is in <font color="blue"><b>computer vision</b></font>, <font color="blue"><b>theoretical deep learning</b></font> and <font color="blue"> artificial inteligence</font> taking inspiration from <font color="green">neuroscience</font> and driven by tools of <font color="darkslateblue"><b>mathematics.</b></font> </i></p> 
+<p class="box"> Currently,  I'm working on <font color="red">pose estimation</font> and <font color="red">theoretical deep learning.</font></p> 
 
 
 My resume is published online <a href="https://sudoankit.github.io/resume/">here.</a> 
@@ -34,15 +34,17 @@ This is the definition by the way.
 </div>
 </div>
 
-This blog is mostly about my thoughts, explorations and predictions on the future, technology, world economy, sustainable cities and development and philosophy. Progress the species.
+This blog is mostly about my research, thoughts, explorations and predictions on the future, technology, world economy, sustainable cities and development and philosophy. Progress the species.
 
-I do maintain another sub-blog for mathematics being my passion and simulations being a visualization of the future which you can access above. A big large guidance arrow has been provided for ease of navigation.
+I do maintain another sub-blog for mathematics. A big large guidance arrow has been provided for ease of navigation.
 
-My research lies on deep understanding of how the brain works, where does the visual memory get stored, explorations of the occipital lobe and using this biological and neuroscientific inspiration I try creating machines that understand what they see and think about it. I too have an interest in biophysics and fluid simulations.
+My research motive for life lies on deep understanding of how the brain works, where does the visual memory get stored, explorations of the occipital lobe and using this biological and neuroscientific inspiration to try and create machines that understand what they see and think about it. In short, computational modeling of human vision and genereal artificial intelligence.
 
-I play chess (not professionally yet) and Go recently (yes because of AlphaGo), swim, speedcube (32s, record, 3x3) and run. As I had a pretty introverted childhood ( continue to have ), I read a lot of fiction. I have been working on a book [non-fiction] since August 2017. It's going to be good :) 
+In future I want to research on safer AI, deep reinforcement learning and differential topology.
 
-We have already been selfish and have invested on ourselves. It's time we invest on people. Not you or me, everyone. 
+In distant future I would definitely want to play with fluid dynamics, neuroscience, biophysics and astronomy in no order.
+
+I play chess (not professionally yet) and Go recently (yes because of AlphaGo), swim, speedcube (32s, record, 3x3) and run. 
 
 <hr>
 

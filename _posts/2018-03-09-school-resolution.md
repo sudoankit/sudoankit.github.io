@@ -1,9 +1,9 @@
 ---
 layout: post
 <!-- comments: true -->
-title: "Spring, schools and sorcery! " 
+title: "Spring, schools and sorcery! - DRAFT -" 
 excerpt: "My teachings at a school about technology and science during spring with a little sorcery.  "
-date: 2018-02-12 07:31:03 +0530
+date: 2018-03-09 07:31:03 +0530
 mathjax: true
 
 ---
@@ -13,7 +13,7 @@ p {
 }
 </style>
 
-
+>This post is still in draft and I have made it public (online) to get some feedback from personal contacts. As you might have noticed the comment option is disabled as of now. 
 
 <div class="imgcap">
 <img src="/assets/school/spring.jpg" style="border:border:1px solid #021a40; width:100%; height: 40%">
@@ -52,7 +52,7 @@ A demo was of object recognition using `keras` pre trained `resnet` and `VGG19`,
 <div class="imgcap">
 <img src="/assets/school/nn.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
 <div class="thecap" style="text-align:center">
-A simple neural network, from www.euralnetworksanddeeplearning.com by Michael Nielsen</div>
+A simple neural network by <a href="www.neuralnetworksanddeeplearning.com">Michael Nielsen</a></div>
 </div>
 
 
@@ -75,29 +75,34 @@ P = imagenet_utils.decode_predictions(prediction_img)
 
 ```
 
+We went ahead with "behind the awesome with science and math" sections on how SpaceX landed with precision (convex optimization), how does Waymo drive autonomously (LIDAR, Sensors and a bit about SLAM) with some touches of what the brain connectome is and video games.
+
 #### Safe AI.
 
 Third, a general idea on AI and mostly towards a community which believe AI is safe and really useful to have. Safer AI by demystifying media.
 
+We talked about Sophia, how it's not exactly what the media says and it's great NLP with excellent PR.
+
 
 #### SpaceX Falcon Heavy.
 
+	- todo -
 
 
 #### Autonomous Cars.
 
+	- todo -
 
 #### Neuroscience.
 
+	- todo -
+
 #### Video Games.
 
-#### Olympiads and Science Fair.
-
-Finally we went ahead with "behind the awesome with science and math" sections on how SpaceX landed with precision (convex optimization), how does Waymo drive autonomously (LIDAR, Sensors and a bit about SLAM) with some touches of what the brain connectome is and video games.
-
+	- todo -
 
 ### Sorcery.
-
+---
 <div class="imgcap">
 <img src="/assets/school/me.png" width="50%">
 <div class="thecap" style="text-align:center">
@@ -106,11 +111,16 @@ When you allow kids to draw on your photo. Sorcery!</div>
 
 haha, someone started writing the formular for angular velocity!!?, someone drew horns, someone a hat, someone gave me muscles!, I have no clue what that red thing is on the chair!
 
-But the best feeling I get is when someone wrote "come again!".
+The best feeling I got is when someone wrote "come again!". 
+
 
 I will!
 
 ---
+
+More references.
+
+Spring Valley School for allowing me to do this, Wikipedia, Nat and Friends, Google Search, 
 
 This was a fantastic experience in my life and I totally suggest you to try teaching at random schools. It's so much fun!
 
@@ -118,6 +128,7 @@ Ankit.
 
 ---
 
-More references I found it apt to add in the end.
 
-Spring Valley School for allowing me to do this, Wikipedia, Nat and Friends, Google Search, 
+
+
+
