@@ -12,9 +12,11 @@ p {
 </style>
 
 
-* [**November, '17---**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [AKD Sir](https://sites.google.com/site/dashkajaya/home).
+* [**March '18 ---**] Working on pose estimation using variational autoencoder's and GAN's, research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
 
-* [**October 2017**] Working on a paper on affordable AR Education.
+* [**November, '17--- March, '18**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
+
+* [**October 2017**] Working on a paper on affordable AR Education. *Soon to be published*
 
 * [**August 2017**] <u> #UnitedByHCL Hackathon </u>
 <br><font color="red">WON THE HACKATHON, FIRST PRIZE 5000$</font><br><del> Got <strong>selected for onsite finals at Trafford, Manchester, UK!  </strong> (September 15th)</del>. Gearing up for the final application of PlutoAR, bug fixes, some new features, story mode, etc! AR + Education rock!
@@ -39,23 +41,26 @@ _I hope these four years will be a blast!_
 ### Future
 
 Zvezda v.2.0
+
+* [TECH] Pagination - **High Priority**
+* [TECH] Progress Loader - **High Priority**
 * [TECH] AWS Lambda Integration.  
 * [FEAT] More jQuery and JS Explorables
 * [TECH] RSS Feed, Mailchimp integration.
 
 --- 2018 ---
 
-### March
-
-
-* [POST] Introducing Allure of Academia @60fps.
-* [POST] About PlutoAR. Finally.
-* [POST] [MATH] New Math Post. 
-
-### February
+### June - July
 
 * [POST] [AOA] First post, push website.
-* [POST] About school vists.
+* [POST] Introducing Allure of Academia @60fps.
+* [POST] _Demystfying a B.Tech degree in India: a personal experience._
+
+
+### May
+
+* [POST] [MATH] New Math Post, _Eigenvalues, Borel Functions and Introduction to Spectral Theory_
+* <del>[POST] About school vists.</del>
 * <del> [POST]  About headfakes. </del>
 
 ### January 

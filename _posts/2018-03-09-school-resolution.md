@@ -1,9 +1,9 @@
 ---
 layout: post
-<!-- comments: true -->
-title: "Spring, schools and sorcery! - DRAFT -" 
-excerpt: "My teachings at a school about technology and science during spring with a little sorcery.  "
-date: 2018-03-09 07:31:03 +0530
+comments: true
+title: "Spring, schools and sorcery! *NEW*" 
+excerpt: "My teachings at a school about technology and science during spring with a little sorcery."
+date: 2018-05-03 07:31:03 +0530
 mathjax: true
 
 ---
@@ -11,9 +11,9 @@ mathjax: true
 p {
   text-align: justify;
 }
+
 </style>
 
->This post is still in draft and I have made it public (online) to get some feedback from personal contacts. As you might have noticed the comment option is disabled as of now. 
 
 <div class="imgcap">
 <img src="/assets/school/spring.jpg" style="border:border:1px solid #021a40; width:100%; height: 40%">
@@ -28,7 +28,11 @@ There are a few schools nearby my house and from those I chose [Spring Valley Sc
 
 Let's see all this in a bit of detail. 
 
----
+<div class="imgcap">
+<img src="/assets/school/out-of-box.gif" style="border:border:1px solid #021a40; width:100%; height: 40%">
+<div class="thecap" style="text-align:center">
+Why stop at marks if the child want's to go out of the box?</div>
+</div>
 
 #### CRISPR
 
@@ -40,7 +44,7 @@ I needed to try and create some intuition of genetic engineering. I went with CR
 My CRISPR slide.</div>
 </div>
 
-**Observations:** Visualizing protein structure using AR would be pretty cool.
+**Observations:** Visualizing protein structure using AR would be pretty cool. <sup><a href="#first">1</a></sup>
 
 ---
 
@@ -52,7 +56,7 @@ A demo was of object recognition using `keras` pre trained `resnet` and `VGG19`,
 <div class="imgcap">
 <img src="/assets/school/nn.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
 <div class="thecap" style="text-align:center">
-A simple neural network by <a href="www.neuralnetworksanddeeplearning.com">Michael Nielsen</a></div>
+A simple neural network, figure by <a href="www.neuralnetworksanddeeplearning.com">Michael Nielsen.</a></div>
 </div>
 
 
@@ -75,7 +79,30 @@ P = imagenet_utils.decode_predictions(prediction_img)
 
 ```
 
+This hands-on approach was really beneficial in developing intuition and made the student quite curious. 
+
+<div class="imgcap">
+<img src="/assets/school/obj-recog.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
+<div class="thecap" style="text-align:center"> Thoughtful questions after this experiment. Also lot of humour and laughter was experienced. :) 
+ </div>
+</div>
+
+
+
+<b>Question 1:</b> <i>What if the dataset was not labelled?</i>
+<br>
+<b>Answer and Observations: </b> Memorization in a neural network. Would it still classify/identify correctly? A neural net retaining the learning property even if trained with unlabeled dataset?
+
+
+
+<b>Question 2:</b> <i>Why didn’t it work for my image?</i>
+<br>
+<b>Answer and Observations: </b>  Well, it’s not in the dataset. VGGNet, ResNet don’t have labelled data for your image.  As you might have found out, we haven’t created a general AI yet. An AI which would play chess, help the blind to cross roads and sell you an item just as a freaking salesperson is far off yet.
+
+<hr>
+
 We went ahead with "behind the awesome with science and math" sections on how SpaceX landed with precision (convex optimization), how does Waymo drive autonomously (LIDAR, Sensors and a bit about SLAM) with some touches of what the brain connectome is and video games.
+
 
 #### Safe AI.
 
@@ -83,23 +110,19 @@ Third, a general idea on AI and mostly towards a community which believe AI is s
 
 We talked about Sophia, how it's not exactly what the media says and it's great NLP with excellent PR.
 
+As this topic would need me to go deeply into ethics, it's better left for another post or maybe **just not**.
 
 #### SpaceX Falcon Heavy.
 
-	- todo -
+The recent news about SpaceX landing a used rocket back was just fabulous. How did they do it? Children get curious and dream of making something similar when they grow up and I thought why not fuel this dream a bit further by explaining a bit of math and the path they should choose? 
 
+Enter the SpaceX Slide which brielfy taught about 
 
-#### Autonomous Cars.
-
-	- todo -
-
-#### Neuroscience.
-
-	- todo -
-
-#### Video Games.
-
-	- todo -
+<div class="imgcap">
+<img src="/assets/school/spaceX-Explanation.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
+<div class="thecap" style="text-align:center">
+Explaining this kids a simple contraint problem! Copyrights: (NAE Bridge/Lars Blackmore/SpaceX) </div>
+</div>
 
 ### Sorcery.
 ---
@@ -116,6 +139,28 @@ The best feeling I got is when someone wrote "come again!".
 
 I will!
 
+<hr>
+
+
+#### EDITS + UPDATES
+<div id="first">
+
+<b>1:</b>
+
+I tried to visualize a DNA strand using Vuforia and Unity and results are great! The only bad review from kids was the 3D model which I had freely downloaded. :(
+
+I hope I'll try to make my own blender, perhaps model and open source this!
+<br>
+<br>
+
+<div class="imgcap">
+<img src="/assets/school/dna-ar.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
+<div class="thecap" style="text-align:center">
+DNA AR Model using Vuforia and Unity</div>
+</div>
+</div>
+
+
 ---
 
 More references.
@@ -124,10 +169,11 @@ Spring Valley School for allowing me to do this, Wikipedia, Nat and Friends, Goo
 
 This was a fantastic experience in my life and I totally suggest you to try teaching at random schools. It's so much fun!
 
-Ankit.
+Thank you for the love, fam!
+
+**Ankit**
 
 ---
-
 
 
 

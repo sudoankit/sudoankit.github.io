@@ -13,19 +13,28 @@ p {
 p.box {
 	text-align: center; 
 	font-size: large;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   outline-color: black;
 }
 
+p.boxs {
+  text-align: justify; 
+  font-size: small;
+
+}
 </style>
 
-<p class="box"> Currently,  I'm working on <font color="red">pose estimation</font> and <font color="red">theoretical deep learning.</font></p> 
+<p class="boxs">
+<b>Note:</b> This webpage contains numerous emoji's in UTF-8 format. If you can see this pizza slice &#x1F355;, then your browser is good to go, else to enjoy some nice visuals, please update. If emoji's disgusts you, I'm sorry, I'll make another emoji free version of this webpage soon.
+</p>
 
+---
 
-My resume is published online <a href="https://sudoankit.github.io/resume/">here.</a> 
+<p class="box"> Currently,  I'm working on <font color="red">pose estimation + theoretical deep learning.</font></p> 
+
 <hr>
 
-Hi, I'm Ankit, pretty much a **nerd.**
+&#x1F44B; Hi, I'm &#x2642; Ankit, pretty much a &#x1F60E;**nerd.** 
 
 <div class="imgcap">
 <img src="/assets/nerds.jpg" style="border:border:1px solid #021a40; width:69%;"> <!-- Haha, width=69% -->
@@ -36,15 +45,17 @@ This is the definition by the way.
 
 This blog is mostly about my research, thoughts, explorations and predictions on the future, technology, world economy, sustainable cities and development and philosophy. Progress the species.
 
-I do maintain another sub-blog for mathematics. A big large guidance arrow has been provided for ease of navigation.
+I do maintain another sub-blog for &#x1F522; mathematics. A big large guidance arrow has been provided for ease of navigation.
 
-My research motive for life lies on deep understanding of how the brain works, where does the visual memory get stored, explorations of the occipital lobe and using this biological and neuroscientific inspiration to try and create machines that understand what they see and think about it. In short, computational modeling of human vision and genereal artificial intelligence.
+&#x1F4DD; My research motive for life lies on deep understanding of how the brain works, where does the visual memory get stored, explorations of the occipital lobe and using this biological and neuroscientific inspiration to try and create machines that understand what they see and think about it. In short, computational modeling of human vision / machine vision &#x1F441; and then on general artificial intelligence. &#x1F916;
 
-In future I want to research on safer AI, deep reinforcement learning and differential topology.
+In future I want to research on safer AI, deep reinforcement learning, &#x1F9E0; neuroscience and differential topology.
 
-In distant future I would definitely want to play with fluid dynamics, neuroscience, biophysics and astronomy in no order.
+In distant future I would definitely want to play with &#x1F4A7; fluid dynamics, biophysics and astronomy in no order.
 
-I play chess (not professionally yet) and Go recently (yes because of AlphaGo), swim, speedcube (32s, record, 3x3) and run. 
+&#x1F3B2; I play chess (not professionally yet, though have won some prizes) and Go recently (yes because of AlphaGo), swim &#x1F3CA; (some prizes, yay!), speedcube (32s, record, 3x3) and run &#x1F3C3;. I happen to sometimes write some good literature &#x1F4DC; which apparently has touched many hearts &#x1F4A4;(as I'm told) at <a href="https://sudoankit.github.io/italics/">italics</a>. Please verify to confirm.
+
+&#x1F4C4;: I'm to much surprise writing a non-fiction book on artificial emotions and people. You can check the first few pages of it <a href="/assets/ae-manuscript-v0.2.pdf">here.</a>  (Warning: it's a very very early draft.)
 
 <hr>
 
@@ -65,9 +76,7 @@ Favourite Tweet.
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You want to speak with a Spaniard, you learn Spanish. You want to frolic in France, you learn French. You want to commune with the cosmos, you learn Mathematics — the language of the Universe.</p>&mdash; Neil deGrasse Tyson (@neiltyson) <a href="https://twitter.com/neiltyson/status/952729684894191616?ref_src=twsrc%5Etfw">January 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
 
-
-<!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and paintball fights and exotic trips, I'm in! -->
-
+<!-- Want to hire me? Sure! As long as there's good healthy food, lots of paid holidays and zen + exotic trips, I'm in! -->
 
 <!-- <div class="imgleft">
 	<img source src="{{ site.baseurl }}/sudoankit.png">
