@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Spring, schools and sorcery! *NEW*" 
+title: "Spring, schools and sorcery!" 
 excerpt: "My teachings at a school about technology and science during spring with a little sorcery."
 date: 2018-05-03 07:31:03 +0530
 mathjax: true
@@ -28,11 +28,6 @@ There are a few schools nearby my house and from those I chose [Spring Valley Sc
 
 Let's see all this in a bit of detail. 
 
-<div class="imgcap">
-<img src="/assets/school/out-of-box.gif" style="border:border:1px solid #021a40; width:100%; height: 40%">
-<div class="thecap" style="text-align:center">
-Why stop at marks if the child want's to go out of the box?</div>
-</div>
 
 #### CRISPR
 

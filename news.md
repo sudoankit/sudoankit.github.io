@@ -12,6 +12,8 @@ p {
 </style>
 
 
+* [**July '18 ---**] Working on markerless Augmented Reality Research and Development at IIT-BBS, under Dr. Debi P. Dogra. 
+
 * [**March '18 ---**] Working on pose estimation using variational autoencoder's and GAN's, research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
 
 * [**November, '17--- March, '18**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
@@ -47,14 +49,15 @@ Zvezda v.2.0
 * [TECH] AWS Lambda Integration.  
 * [FEAT] More jQuery and JS Explorables
 * [TECH] RSS Feed, Mailchimp integration.
+* [POST] Introducing Allure of Academia @60fps.
 
 --- 2018 ---
 
 ### June - July
 
 * [POST] [AOA] First post, push website.
-* [POST] Introducing Allure of Academia @60fps.
-* [POST] _Demystfying a B.Tech degree in India: a personal experience._
+
+* [POST] <del> _Demystfying a B.Tech degree in India: a personal experience._</del> Published on Quora.
 
 
 ### May

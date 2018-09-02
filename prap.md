@@ -34,9 +34,6 @@ img.imgr {
 }
 
 </style>
-<p class="box"><i><font color="blue"> Everything is memory save for the thin edge of the present. </font></i></p> 
-
-### Projects
 
 <hr>
 
