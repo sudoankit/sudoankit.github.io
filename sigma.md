@@ -38,6 +38,8 @@ The symbol '<font color="gold">&#x2605;</font>' means <u>legendary</u> which you
 ### Readings <!-- Of course no affiliate links at all! :) --> 
 ---
 
+### Fiction/Non fiction.
+
 The ratings are totally personal which will differ from person to person.
 
 - <del>[Origin, Dan Brown.](https://en.wikipedia.org/wiki/Origin_(Brown_novel))</del> [2017,Dec] &#x2605;
@@ -59,10 +61,47 @@ Mixing evolutionary biology with simulations, artificial intelligence and religi
 - <del>61 Hours, One Shot, Bad Luck and Trouble, Worth Dying For. Lee Child </del>
 
 
+### Academic
+
+These are some books I have read and find them worth.
+
+#### Mathematics
+
+- Linear Algebra Done Right, Sheldon Axler
+- Principles of Mathematical Analysis, Walter Rudin
+- Calculus, M. Spivak
+- A First Course in Complex analysis, Dennis G. Zill and Patrick Shanahan
+- A Book of Abstract Algebra, Charles Pinter
+- The Princeton Companion to Mathematics,  Timothy Gowers et al
+- How to solve it, G Pólya
+- Elementary Number Theory, David M Burton
+- Topology, Munkres
+
+#### Computer Vision $\cup$ Machine Learning
+
+- Computer Vision: Algorithms and Applications, Richard Szeliski
+- Computer Vision: Models, Learning, and Inference, Simon J. D. Prince
+- Learning OpenCV3 Computer Vision in C++ with the OpenCV library, Adrian Kaehler and Gary Bradski
+
+#### Machine Learning ( Deep Learning $\in$ Machine Learning)
+
+- Pattern Recognition and Machine Learning, Christopher M. Bishop
+- Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman 
+- Deep Learning, Ian Goodfellow et al.
+
+#### Neuroscience
+
+- An Introduction to Neural Networks, James A. Anderson ( _Neurobiology and Neurocomputingl_ )
+- Principles of Neural Design, Peter Sterling.
+
+
+
+
+
 ### Popcorn, TV and Insomnia. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 ---
 
-I watch mosly science fiction and animation.
+I watch mosly science fiction and animation. A more <a href="https://letterboxd.com/sudoankit/films/">up to date list</a> is here on letterboxd.
 
 - [Dunkirk, December, 2017] <font color="gold">&#x2605;</font> Don't loose hope just like the sheppard's tone.
 - [Blade Runner 2049, November, 2017] <font color="gold">&#x2605;</font> Best Neo-noir post apocalyptic cyberpunk science fiction.
@@ -80,18 +119,27 @@ I watch mosly science fiction and animation.
 Hall of fame:
 
 - [Big Bang Theory S1-11] <font color="gold">&#x2605;</font> Nerds acting with humour.
-- [Rick and Morty S1-3] <font color="gold">&#x2605;</font> In Elon Musk's words, "Digustingly Good".
-- [The Grand Tour] <font color="gold">&#x2605;</font> Jezza, Captain Slow and Hamster + GWiz, 'nuff said.
+- [Rick and Morty S1-3 (Adult Swim)] <font color="gold">&#x2605;</font> In Elon Musk's words, "Digustingly Good".
+- [The Grand Tour (Prime Video) ] <font color="gold">&#x2605;</font> Jezza, Captain Slow and Hamster + GWiz, 'nuff said.
+- [Castlevania ( 2018, Netflix )] <font color="gold">&#x2605;</font> Badass animation + Dracula + Alucard + Belmont = !!!
 
 ### Video Games
 ---
 
-I used to play video games but then I took a FUS RO DAH to the knee. [[Skyrim]](https://elderscrolls.bethesda.net/en/skyrim?) <font color="gold">&#x2605;</font>
+(the platform I write is the one I played on, it may be available for your favourite platform too. )
 
+- [Inside, Playdead](https://playdead.com/games/inside/), amazing gameplay, story, state-of-the art gamedev, Highly recommended. &#x2605;
 - [Space Plan, Devolver Digital](https://itunes.apple.com/us/app/spaceplan/id1200864554?mt=8) [iOS] [Black Holes, Dimensional Teleporters, Potatoes] [June, 2017] &#x2605;
 - [Monument Valley 2, ustwo](https://itunes.apple.com/us/app/monument-valley-2/id1187265767?mt=8) [iOS] [Art, Art, Puzzle, M. C. Escher, Love] [June, 2017] &#x2605;
 - [Metal Gear Solid V: The Phantom Pain, Konami](http://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/) [PC] [ [Fulton](https://en.wikipedia.org/wiki/Fulton_surface-to-air_recovery_system), Skulls, Snakes ] &#x2605;
+- [Assassin's Creed 2, Brotherhood][PC][2014] AC2 was amazing, great ending, brotherhood, meh. 
 
+Hall of fame:
+
+- [Kerbal Space Program](https://www.kerbalspaceprogram.com/en/) &#x2605;, [Steam, Windows] Jebediah Kerman has a bad privacy policy. I still like Jebediah Kerman though.
+- [Factorio, Wube Software](https://www.factorio.com), [Steam, Mac] <font color="gold">&#x2605;</font>, the crack for programmers. Cractorio. Warning, don't play this if you respect your time.
+- [Skyrim, Bethesda](https://elderscrolls.bethesda.net/en/skyrim?) [PC] <font color="gold">&#x2605;</font>, see that peak? That's where the game rests. Bethesda's Opus Magnum.
+- [RuneScape, Jagex](https://www.runescape.com) [Mac] <font color="gold">&#x2605;</font>, F$**$k, nearly wasted my life. I have put 1200+ hours spanning 9 years. 
 
 <!-- - [Inside, Playdead]()
 - [Far Cry 3, Ubisoft]()

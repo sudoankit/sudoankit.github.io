@@ -37,7 +37,7 @@ A wave comes and goes and so does your life and the events. There's always somet
 
 Something like this.
 
-<div class="imgcap ">
+<div class="imgcap">
 <img src="/assets/headfake/wave.jpg" width="100%" height="80%">
 <div class="thecap" style="text-align:center">
 You can visualize life as a Fourier series, sort of.
