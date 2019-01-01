@@ -3,7 +3,7 @@ layout: post
 comments: false
 title: "Everything Eigen"
 excerpt: "A matrix, some eigenvalues and vodka at the party...."
-date: 2018-08-25 07:52:00 +0530
+date: 2019-06-01 07:52:00 +0530
 mathjax: true
 ---
 <style>
