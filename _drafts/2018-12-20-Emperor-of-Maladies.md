@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: false
-title: "Moving Forward"
+title: "Moving Forward [ Work in Progress ] [ETA: unknown]"
 excerpt: "The story of my Uncle's battle with mouth cancer, some empty tobacco packets on the floor and tears."
-date: 2019-02-20 +0530
+date: 0000-1-1 +0530
 mathjax: true
 ---
 <style>
@@ -58,13 +58,15 @@ You need to start first, at the "seed".
 
 ### Story time.
 
-My uncle was a school teacher. A damn good one. Sadly, he was a victim of chains of wrong decisions that led him to be a school teacher at a remote village in India with minimal pay. A hope for a better future made him continue teaching and home tutoring many, many young children for extra pay and (nuturing that seed.) 
+My uncle was a school teacher. A damn good one. Sadly, he was a victim of chains of wrong decisions that led him to be a school teacher at a remote village in India with minimal pay. A hope for a better future made him continue teaching and home tutoring many, many young children for little or no pay and (nuturing that seed.) 
 
-He married. Still the same job though. 
+He believed education is essestial for the growth of the species.
 
-More students got tutioned and good karma nurtured that seed even more.
+He married. Still the same job though. More students got tutioned and good karma nurtured that seed even more.
 
-He became father. A beautiful boy, oh the joy!
+He became father. A beautiful boy, oh the joy! The same job now with no pay due to a conflict in administration.
+
+He welcomed his daughter two years back. A beautiful girl.
 
 
 
