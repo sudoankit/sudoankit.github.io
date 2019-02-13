@@ -28,7 +28,6 @@ TL;DR, ELI5 line,
 Every University of 30+ years has culture, has legends, has alumni, has experience driven faculty.
 
 IIIT-BH is around ~10.
-
 It has some culture, some great faculty and some brilliant people around to make the change, the push to the academic circle of human knowledge. 
 Nah, not 'some', few.
 
@@ -45,7 +44,7 @@ As I'm from computer science I have targeted the computer science department onl
 <div class="imgcap">
 <img src="/assets/researchiiitbh/1.png" style="border:border:1px solid #021a40; width:100%;">
 <div class="thecap" style="text-align:center">
-Bar chart for publications vs year. Even though there are 25+ publications in the years 2016 (and maybe more in 2017), this bar chart doesn't say anything about the <font color="blue"><i>quality</i></font> of research. 
+Bar chart for publications vs year. Even though there are 25+ publications in the years 2016 (and maybe more in 2017), this bar chart doesn't say anything about the <font color="#6c34ef"><i>quality</i></font> of research. 
 </div>
 </div>
 
@@ -67,7 +66,7 @@ First if the institute **doesn't change it’s ways of research** we get a linea
 <div class="imgcap">
 <img src="/assets/researchiiitbh/2.png" style="border:border:1px solid #021a40; width:100%;">
 <div class="thecap" style="text-align:center">
-Steady linear growth. Never happens in real life. Real life is <font color="blue"><i>exponential.</i> </font> (IMHO, real life is mathematically philisophical and yes, I am talking about Lotka–Volterra equations) 
+Steady linear growth. Never happens in real life. Real life is <font color="#6c34ef"><i>exponential.</i> </font> (IMHO, real life is mathematically philisophical and yes, I am talking about Lotka–Volterra equations) 
 </div>
 </div>
 

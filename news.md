@@ -11,13 +11,13 @@ p {
 }
 </style>
 
-* [**Sept '18 --- $\infty$**] Working on something exciting. I can't disclose it, yet. ;)
+* [**Feb '18 --- $\infty$**] Working on [FB22 Labs](https://www.fb22labs.xyz).
 
-* [**July '18 --- Sept '18**] Working on markerless Augmented Reality Research and Development at IIT-BBS, under Dr. Debi P. Dogra. 
+* [**July '18 --- Sept '18**] Working on markerless Augmented Reality Research and Development at IIT-BBS, under [Dr. Debi P. Dogra](http://www.iitbbs.ac.in/profile-print.php?furl=dpdogra). 
 
-* [**March '18 --- Sept '18**] Working on pose estimation using variational autoencoder's and GAN's, research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
+* [**March '18 --- Sept '18**] Working on pose estimation using variational autoencoder's and GAN's, research with [Prof. AKD](https://dash-ajay.github.io).
 
-* [**November, '17--- March, '18**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [Prof. AKD](https://sites.google.com/site/dashkajaya/home).
+* [**November, '17--- March, '18**] Working on Computer Vision, Deep Learning and Augmented Reality Research with [Prof. AKD](https://dash-ajay.github.io).
 
 * [**October 2017**] Working on a paper on affordable AR Education. <del>*Soon to be published*</del> <font color="red">Published</font> on <a href="https://arxiv.org/abs/1809.00375">arxiv</a>.
 

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Engineering In India"
-excerpt: "Finding out the discrimination of the grading system of India through plots of marks versus position of in the class."
+excerpt: "Finding out the discrimination of the grading system of India through plots of marks versus seating positions in the class."
 date: 2017-04-06 21:31:03 +0530
 mathjax: true
 

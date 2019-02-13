@@ -24,10 +24,21 @@ It's spring and it's beautiful! At least where I'm at, Kerala. Still, it doesn't
 
 The weather was fantastic and didn't let me sit inside for long. I wanted to go out, enjoy and probably do something productive and then it hit me. Why not teach?
 
-There are a few schools nearby my house and from those I chose [Spring Valley School](https://en.wikipedia.org/wiki/Spring_Valley_School) (becasue it's spring, you got that right!) to teach some classes on a very basic intuition of computer science and a bit genetic engineering. Theory never is great without some real practical experiments so I conducted a small workshop about neural networks. 
+There are a few schools nearby my house and from those I chose [Spring Valley School](https://en.wikipedia.org/wiki/Spring_Valley_School_(Chathamangalam)) (becasue it's spring, you got that right!) to teach some classes on a very basic intuition of computer science and a bit genetic engineering. Theory never is great without some real practical experiments so I conducted a small workshop about neural networks. 
 
 Let's see all this in a bit of detail. 
 
+
+**Table of Contents**
+
+
+---
+
+{: class="table-of-content"}
+* TOC
+{:toc}
+
+---
 
 #### CRISPR
 

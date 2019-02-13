@@ -20,6 +20,17 @@ p {
 }
 </style>
 
+**Table of Contents**
+
+
+---
+
+{: class="table-of-content"}
+* TOC
+{:toc}
+
+---
+
 Head fakes. Everyone of you might have got head fakes probably from parents, friends, teachers, mentors and even life. 
 
 I guess we learn a lot from them, from head fakes and failure. I did. I don't want to blame or be angry at someone or a group which cheated me or did something evil. The ones that harm you are teachers. 

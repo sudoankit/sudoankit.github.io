@@ -18,9 +18,22 @@ p {
   text-align: justify;
 }
 </style>
+
 The Lagrangian Multipliers is an important strategy in mathematical optimization to find the local maxima or minima of a function subject to equality constraints. 
 
 Let's develop some intuition about them.
+
+**Table of Contents**
+
+
+---
+
+{: class="table-of-content"}
+* TOC
+{:toc}
+
+---
+
 
 ## The River Bed
 

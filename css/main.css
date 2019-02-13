@@ -3,8 +3,6 @@
 
 /* Google Fonts Import  */
 
-<link href="https://fonts.googleapis.com/css?family=Lateef" rel="stylesheet">
-/* highlighter */
 
 .yellow-highlight {
   text-shadow: 
@@ -71,18 +69,21 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.6;
   font-weight: 300;
   background-color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
+a         { color: #6c34ef; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa;; }
+a:visited { color: #210563; }
 
 /* Utility */
 hr {
@@ -102,7 +103,7 @@ hr {
   max-width: 800px;
   padding: 0 30px;
   margin: 0 auto;
-  zoom: 1.14;
+  zoom: 1.1;
 }
 
 
@@ -114,7 +115,7 @@ hr {
 
 .site-header {
 
-  border-top: 6px solid #205caa;;
+  border-top: 6px solid #6c34ef;
   /*border-bottom: 1px solid #e8e8e8;*/
   height: 52px;
   background-color: white;
@@ -124,17 +125,23 @@ hr {
 .site-title,
 .site-title:hover,
 .site-title:visited {
+
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 500;
   display: inline-block;
-  text-decoration: none;
-  color: #000000;
-  font-size: 26px;
-  letter-spacing: -1px;
+
+  text-decoration: underline;
+  color: #6c34ef; 
+  letter-spacing: 0px;
   float: left;
-  line-height: 56px;
+  line-height: 66px;
   position: relative;
-  font-size: 44px;
+  font-size: 46px;
   z-index: 1;
-  font-family: Helvetica, Arial, sans-serif;
+   
 }
 
 .site-nav {
@@ -230,7 +237,7 @@ hr {
 
 .posts .post-link {
   font-size: 20px;
-  letter-spacing: -1px;
+  /*letter-spacing: -1px;*/
   line-height: 1;
 }
 
@@ -248,7 +255,7 @@ hr {
 
 .post-header h1 {
   font-size: 36px;
-  letter-spacing: -1.75px;
+  letter-spacing: 0px;
   line-height: 1;
   font-weight: 300;
 }
@@ -278,17 +285,17 @@ hr {
 
 .post-content h2 {
   font-size: 32px;
-  letter-spacing: -1.25px;
+  letter-spacing: -0.25px;
 }
 
 .post-content h3 {
   font-size: 26px;
-  letter-spacing: -1px;
+  letter-spacing: -0.25px;
 }
 
 .post-content h4 {
   font-size: 20px;
-  letter-spacing: -1px;
+  letter-spacing: -0.25px;
 }
 
 .post-content blockquote {
@@ -298,7 +305,7 @@ hr {
   padding-right: 20px;
   font-size: 18px;
   opacity: 1;
-  color: blue;
+  color: #6c34ef;
   font-family: inherit;
   font-style: bold;
   margin: 30px 0;
@@ -343,6 +350,7 @@ hr {
 .post pre.terminal code { background-color: #333; }
 
 /* AK custom CSS mods + Modified @sudoankit*/
+
 .imgright { float: right; margin-left: 10px; }
 .imgleft {float: left; margin-left: 10px;}
 
@@ -584,4 +592,43 @@ max-width: 100%;
 }
 .definition:before {
     font-style: normal;
+}
+
+/* table code from lil'log blog , thanks!*/
+
+
+/**
+ * Table
+ */
+table.info {
+  max-width: 100%;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 20px auto;
+  font-size: 90%;
+}
+table.info th,td {
+  
+    padding: 2px 6px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+table.info th {
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+  }
+
+/**
+ * TOC
+ */
+
+.table-of-content li {
+    font-size: 100%;
+    color: red;
+    font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    list-style-type: decimal;
 }
