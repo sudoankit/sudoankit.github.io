@@ -3,7 +3,6 @@ layout: page
 title: $\Sigma$
 permalink: /sigma/
 mathjax: true
-comments: true
 ---
 
 <style>
@@ -128,6 +127,7 @@ Hall of fame:
 
 (the platform I write is the one I played on, it may be available for your favourite platform too. )
 
+- [Into The Breach, Subset Games](https://subsetgames.com/itb.html) &#x2605;, [MacOS, Steam], A mech chess game with deep strategy, plenty of content, an amazing OST, sweet looking pixel art and clean, informative UI design make you always say, _"Just one more run"_
 - [Inside, Playdead](https://playdead.com/games/inside/), amazing gameplay, story, state-of-the art gamedev, Highly recommended. &#x2605;
 - [Space Plan, Devolver Digital](https://itunes.apple.com/us/app/spaceplan/id1200864554?mt=8) [iOS] [Black Holes, Dimensional Teleporters, Potatoes] [June, 2017] &#x2605;
 - [Monument Valley 2, ustwo](https://itunes.apple.com/us/app/monument-valley-2/id1187265767?mt=8) [iOS] [Art, Art, Puzzle, M. C. Escher, Love] [June, 2017] &#x2605;
@@ -136,7 +136,10 @@ Hall of fame:
 
 Hall of fame:
 
-- [Kerbal Space Program](https://www.kerbalspaceprogram.com/en/) &#x2605;, [Steam, Windows] Jebediah Kerman has a bad privacy policy. I still like Jebediah Kerman though.
+- [Opus Magnum, Zachtronics](http://www.zachtronics.com/opus-magnum/) <font color="gold">&#x2605;</font>, [Steam, MacOS] :- puzzle-based programming game which gives you absolute freedom to craft and create machines to accomplish alchemical tasks. It's satisfying, it's complex and it pushes you to optimize your solutions. If you're into programming, please, play this masterpiece by Zachtronics.
+
+- [Celeste, Matt Makes Games](http://www.celestegame.com) <font color="gold">&#x2605;</font>, [Steam, MacOS] Tight controls, amazing pixel art, a badass OST and a touching story all sewn together in perfect symphony to sing the song of the best platformer for years to come.  
+- [Kerbal Space Program, Squad](https://www.kerbalspaceprogram.com/en/) &#x2605;, [Steam, Windows] Jebediah Kerman has a bad privacy policy. I still like Jebediah Kerman though.
 - [Factorio, Wube Software](https://www.factorio.com), [Steam, Mac] <font color="gold">&#x2605;</font>, the crack for programmers. Cractorio. Warning, don't play this if you respect your time.
 - [Skyrim, Bethesda](https://elderscrolls.bethesda.net/en/skyrim?) [PC] <font color="gold">&#x2605;</font>, see that peak? That's where the game rests. Bethesda's Opus Magnum.
 - [RuneScape, Jagex](https://www.runescape.com) [Mac] <font color="gold">&#x2605;</font>, F$**$k, nearly wasted my life. I have put 1200+ hours spanning 9 years. 
