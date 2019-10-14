@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #6c34ef; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #210563; }
+a:visited { color: #C0C0C0; }
 
 /* Utility */
 hr {
