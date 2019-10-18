@@ -50,7 +50,7 @@ I needed to try and create some intuition of genetic engineering. I went with CR
 My CRISPR slide.</div>
 </div>
 
-**Observations:** Visualizing protein structure using AR would be pretty cool. <sup><a href="#first">1</a></sup>
+**Observations:** Visualizing protein structure using AR would be pretty cool. 
 
 ---
 
@@ -130,48 +130,7 @@ Enter the SpaceX Slide which brielfy taught about
 Explaining this kids a simple contraint problem! Copyrights: (NAE Bridge/Lars Blackmore/SpaceX) </div>
 </div>
 
-### Sorcery.
 ---
-<div class="imgcap">
-<img src="/assets/school/me.png" width="50%">
-<div class="thecap" style="text-align:center">
-When you allow kids to draw on your photo. Sorcery!</div>
-</div>
-
-haha, someone started writing the formular for angular velocity!!?, someone drew horns, someone a hat, someone gave me muscles!, I have no clue what that red thing is on the chair!
-
-The best feeling I got is when someone wrote "come again!". 
-
-
-I will!
-
-<hr>
-
-
-#### EDITS + UPDATES
-<div id="first">
-
-<b>1:</b>
-
-I tried to visualize a DNA strand using Vuforia and Unity and results are great! The only bad review from kids was the 3D model which I had freely downloaded. :(
-
-I hope I'll try to make my own blender, perhaps model and open source this!
-<br>
-<br>
-
-<div class="imgcap">
-<img src="/assets/school/dna-ar.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
-<div class="thecap" style="text-align:center">
-DNA AR Model using Vuforia and Unity</div>
-</div>
-</div>
-
-
----
-
-More references.
-
-Spring Valley School for allowing me to do this, Wikipedia, Nat and Friends, Google Search, 
 
 This was a fantastic experience in my life and I totally suggest you to try teaching at random schools. It's so much fun!
 

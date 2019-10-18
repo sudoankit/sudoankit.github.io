@@ -81,9 +81,25 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #6c34ef; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #C0C0C0; }
+a         { 
+  color: #6c34ef; 
+  text-decoration: none; 
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  
+   transition:.3s;
+
+
+}
+a:hover   { 
+  color: #6c34ef; 
+  text-decoration: underline; 
+  opacity: 0.5;
+
+}
+/*a:visited { color: #AEB6BF; }*/
 
 /* Utility */
 hr {
@@ -299,15 +315,23 @@ hr {
 }
 
 .post-content blockquote {
-  border-left: 4px solid #000000;
-  border-right: 4px solid #000000;
-  padding-left: 20px;
-  padding-right: 20px;
+  /*border-left: 4px solid #000000;*/
+  /*border-right: 4px solid #000000;*/
+  /*border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;*/
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  padding-bottom: 7px;
   font-size: 18px;
+  border: solid 2px;
+  box-shadow: 7px 7px 0 0 #6c34ef;
+
   opacity: 1;
   color: #6c34ef;
+
   font-family: inherit;
-  font-style: bold;
+  font-style: italic;
   margin: 30px 0;
 }
 

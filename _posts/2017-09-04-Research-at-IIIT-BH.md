@@ -11,6 +11,7 @@ mathjax: true
 p {
   text-align: justify;
 }
+
 </style>
 
 Okay, I'll be straight and frank.

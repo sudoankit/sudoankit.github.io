@@ -11,9 +11,8 @@ mathjax: true
 p {
   text-align: justify;
 }
-</style>
 
-<style>
+
 .boxx {
 	border: 1px solid black;
 	width: 400px;

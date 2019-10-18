@@ -17,6 +17,8 @@ mathjax: true
 p {
   text-align: justify;
 }
+
+
 </style>
 
 The Lagrangian Multipliers is an important strategy in mathematical optimization to find the local maxima or minima of a function subject to equality constraints. 
@@ -68,7 +70,7 @@ The point of intersection of the ellipse and the riverbed curve $f(x,y)$. They h
 
 A lot of interesting stuff happens here at the interection point. First, you can easily verify that both the curves have a common tangent equations. Nice. Next, the point has two normals acting on it, in the opposite directions. This is what we care about. 
 
-<font color="blue">Normals.</font>  
+<font color="red">Normals.</font>  
 
 Let's focus on normals. As we know the normal is given by the gradient of the curve, (since the gradient of a function is perpendicular to the contour lines)
 
@@ -78,14 +80,14 @@ and,
 
 $$ \nabla_{x,y} f = \Bigl( \frac{\partial{f}}{\partial{x}}, \frac{\partial{f}}{\partial{y}}  \Bigr) $$ 
 
-So, we never know whether these normal are balanced. It depends on the curve and elipse equations. Thus we introduce a scalar, non-zero constant, <font color='blue'> $\lambda$ </font> (to balance the point of interection, where the maxima or minima lies).
+So, we never know whether these normal are balanced. It depends on the curve and elipse equations. Thus we introduce a scalar, non-zero constant, <font color='red'> $\lambda$ </font> (to balance the point of interection, where the maxima or minima lies).
 <center>
 <div class="boxx">
 $$ \nabla_{x,y} f = \lambda \nabla_{x,y} g $$
 </div>
 </center>
 
-This constant is called the <font color='blue'>Lagrange multiplier.</font>
+This constant is called the <font color='red'>Lagrange multiplier.</font>
 
 We continue solving this equation,
 
@@ -97,7 +99,7 @@ $$ \nabla_{x,y} f - \lambda \nabla_{x,y} g = 0$$
 
 Note, setting $\lambda = 0$ is a solution if $f(x,y)$ is at the level (horizontal) regardless of $g(x,y)$. 
 
-Let us define another function $\mathscr{L}(x,y,\lambda) \equiv f(x,y) + \lambda g(x,y)$ to include all the conditions into one equation and solve for $\nabla_{x,y,\lambda}\mathscr{L}(x,y,\lambda) = 0.$ [ this function is also called the <font color="blue">Lagrangian Function</font>, also note that $\lambda$ can be positive or negative ]
+Let us define another function $\mathscr{L}(x,y,\lambda) \equiv f(x,y) + \lambda g(x,y)$ to include all the conditions into one equation and solve for $\nabla_{x,y,\lambda}\mathscr{L}(x,y,\lambda) = 0.$ [ this function is also called the <font color="red">Lagrangian Function</font>, also note that $\lambda$ can be positive or negative ]
 
 As there are three unknowns, $x,y$ and $\lambda$, would need to solve three equations. 
 
@@ -214,9 +216,9 @@ $$\nabla_{\lambda} \mathscr{L} = 0 $$
 
 <hr>
 
-References include <font color="blue">my father's lecture notes on numerical methods and FEM at NITC (riverbed) </font>, <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Wikipedia</a>, <a href="https://math.stackexchange.com">math.stackexchange</a>, <a href="https://www.microsoft.com/en-us/research/people/cmbishop/">Pattern Recognition and Machine Learning, Bishop</a> and <a href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-13-lagrange-multipliers/">MIT OWC Multivariable Calculus. (necklace intuition)</a>
+References include my father's lecture notes on numerical methods and FEM at NITC (riverbed), <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Wikipedia</a>, <a href="https://math.stackexchange.com">math.stackexchange</a>, <a href="https://www.microsoft.com/en-us/research/people/cmbishop/">Pattern Recognition and Machine Learning, Bishop</a> and <a href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-13-lagrange-multipliers/">MIT OWC Multivariable Calculus. (necklace intuition)</a>
 
-All images are mine and are licensed under CC-BY-4.0. Softwares used include MATLAB, OSX Grapher, Preview.app and Adobe illustrator.
+All images are mine and are licensed under CC-BY-4.0. Softwares used include MATLAB, OSX Grapher and Adobe Illustrator.
 <hr>
 
 I hope you had as much fun reading than I had writing this up! 

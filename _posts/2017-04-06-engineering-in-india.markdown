@@ -11,6 +11,7 @@ mathjax: true
 p {
   text-align: justify;
 }
+  
 </style>
 
 Let’s analyze the examination results which came out for me last week. In a particular subject (*no, I won’t tell ya*) this was the situation.
