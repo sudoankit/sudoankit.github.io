@@ -1,6 +1,8 @@
 // Source from https://bl.ocks.org/mbostock/4060366 used, licensed as usual in Released under the GNU General Public License, version 3.
 // Modified for a bit for Jekyll compability.
 
+
+
 var width = $("#voronoi").width(),
      height = 300;
 

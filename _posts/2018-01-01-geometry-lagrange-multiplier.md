@@ -9,7 +9,6 @@ mathjax: true
 <style>
 .boxx {
 	border: 1px solid black;
-	width: 400px;
 }
 </style>
 
@@ -25,7 +24,7 @@ The Lagrangian Multipliers is an important strategy in mathematical optimization
 
 Let's develop some intuition about them.
 
-**Table of Contents**
+<!-- **Table of Contents**
 
 
 ---
@@ -35,7 +34,7 @@ Let's develop some intuition about them.
 {:toc}
 
 ---
-
+ -->
 
 ## The River Bed
 
@@ -110,7 +109,9 @@ An example will make this much more clear.
 <div class="definition">
 <strong>Example 1.</strong> Let us find stationary points of the function $f(x,y) = x^2 + y^2 + 1$ subject to constraint $g(x,y) = x + y - 1 = 0$.
 <br>
-<strong>Answer.</strong> 
+<details>
+	<summary>
+<strong>Answer.</strong> </summary>
 <div class="imgcap">
 <img src="/assets/lagragian/lagrange1.jpg" style="border: solid; width:60%;">
 <div class="thecap" style="text-align:center">
@@ -129,6 +130,7 @@ $$2y + \lambda = 0 \quad [\nabla_y \mathscr{L} = 0 ]$$
 $$x + y - 1 = 0 \quad [\nabla_{\lambda} \mathscr{L} = 0 ]$$
 
 Next solving these equations, we get the solution of stationary points as $(x^*,y^*) = (\frac 12, \frac 12)$ and the value of the Lagragian Multiplier is $\lambda = -1$.
+</details>
 </div>
 
 I hope this example made the concept much clear! Let's move forward and discuss Lagrangian Multipliers with some physics!

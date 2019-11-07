@@ -15,11 +15,11 @@ p {
 
 .boxx {
 	border: 1px solid black;
-	width: 400px;
+	/*width: 400px;*/
 }
 </style>
 
-**Table of Contents**
+<!-- **Table of Contents**
 
 
 ---
@@ -28,7 +28,7 @@ p {
 * TOC
 {:toc}
 
----
+--- -->
 
 Head fakes. Everyone of you might have got head fakes probably from parents, friends, teachers, mentors and even life. 
 

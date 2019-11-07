@@ -95,7 +95,6 @@ a         {
 }
 a:hover   { 
   color: #6c34ef; 
-  text-decoration: underline; 
   opacity: 0.5;
 
 }
@@ -273,7 +272,8 @@ hr {
   font-size: 36px;
   letter-spacing: 0px;
   line-height: 1;
-  font-weight: 300;
+  font-weight: 700;
+
 }
 
 
@@ -286,6 +286,7 @@ hr {
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
+
 
 
 .post-content h1,
@@ -313,6 +314,13 @@ hr {
   font-size: 20px;
   letter-spacing: -0.25px;
 }
+
+.post-content a {
+    border-bottom: 1px dotted #6c34ef;
+    padding-bottom: 1px;
+
+}
+
 
 .post-content blockquote {
   /*border-left: 4px solid #000000;*/
@@ -385,12 +393,12 @@ max-width: 100%;
 
 .imgcap img {
   border: 0px solid #999;
-  max-width: 70%;
+  /*max-width: 70%;*/
 }
 
 .imgcap2 img {
   border: 0px solid #999;
-  max-width: 70%;
+  /*max-width: 70%;*/
 }
 
 .imgcap {
@@ -618,6 +626,33 @@ max-width: 100%;
     font-style: normal;
 }
 
+.lightybox {
+  text-align: justify;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 1px solid black ;
+  background: #FFFFCD;
+  display: block;
+  margin: 12px 0;
+
+}
+
+.lightgbox {
+  text-align: justify;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 1px solid black ;
+  background: #CAFEE5;
+  display: block;
+  margin: 12px 0;
+}
+
 /* table code from lil'log blog , thanks!*/
 
 
@@ -648,6 +683,7 @@ table.info th {
  */
 
 .table-of-content li {
+
     font-size: 100%;
     color: red;
     font-family: -apple-system, BlinkMacSystemFont,
@@ -656,3 +692,4 @@ table.info th {
     "Droid Sans", "Helvetica Neue", sans-serif;
     list-style-type: decimal;
 }
+

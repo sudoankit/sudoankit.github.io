@@ -11,7 +11,7 @@ p {
 }
 </style>
 
-* [**Feb '18 --- $\infty$**] Working on [FB22 Labs](https://www.fb22labs.xyz).
+* [**Feb '19 --- $\infty$**] Working on [FB22 Labs](https://www.fb22labs.xyz).
 
 * [**July '18 --- Sept '18**] Working on markerless Augmented Reality Research and Development at IIT-BBS, under [Dr. Debi P. Dogra](http://www.iitbbs.ac.in/profile-print.php?furl=dpdogra). 
 
@@ -37,42 +37,3 @@ I learned some rigorous mathematics from Rienhard Diestel's book on [Graph Theor
 _I hope these four years will be a blast!_
 
 ---
-
-## Blog Updates
-
-### Future
-
-Zvezda v.2.0
-
-* [TECH] <a href="http://www.sudoankit.xyz">www.sudoankit.xyz</a> <del>New website, personal domain, minimal + super fast loads + mobile optimized.</del> **DONE!** 
-* [TECH] Pagination - **High Priority**
-* <del>[TECH] Progress Loader - **High Priority**</del>, DONE
-* [TECH] AWS Lambda Integration.  
-* [FEAT] More jQuery and JS Explorables
-* [TECH] RSS Feed, Mailchimp integration.
-* [POST] Introducing Allure of Academia @60fps. Shifted to 2019-2020
-
---- 2018 ---
-
-### June - July
-
-
-* [POST] <del> _Demystfying a B.Tech degree in India: a personal experience._</del> Published on Quora.
-
-
-### May
-
-* [POST] [MATH] New Math Post, _Eigenvalues, Borel Functions and Introduction to Spectral Theory_, shifted to mid-2019
-* <del>[POST] About school vists.</del>
-* <del> [POST]  About headfakes. </del>
-
-### January 
-
-* <del>[POST] [Math] Langrange Multipliers.</del>
-* <del>[POST] Introducing Allure of Academia.</del>
-
---- 2017 ---
-
-### December
-* <del> [FEAT] "Project" tab update. Zvezda v.0.4 </del> 
-* <del> [FEAT] Small fixes, optimizations for readability </del>

@@ -13,6 +13,10 @@ p.box {
   	outline-color: black;
 }
 
+.post-content a {
+	border-bottom: 1px dotted #ffffff;
+}
+
 </style>
 <p class="box">Welcome to $\Sigma$, a collection of links, reviews and similar. </p> 
 
@@ -26,20 +30,24 @@ The symbol '<font color="gold">&#x2605;</font>' means <u>legendary</u> which you
 ### Links
 ---
 
-- [The length of a toilet paper roll.](https://math.stackexchange.com/questions/1633704/the-length-of-toilet-roll) [math.stackexchange] &#x2605;
+- https://deepindex.org
+- https://whirl.cs.ox.ac.uk/reading-group/
+- https://www.endtoend.ai
+- Less Wrong
+- [The length of a toilet paper roll.](https://math.stackexchange.com/questions/1633704/the-length-of-toilet-roll) [math.stackexchange] 
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/) [a wordpress blog]
 - [How to hack a car?](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec) [Medium blog post]
-- [Complexity Explorer](https://www.complexityexplorer.org) [ Math MOOC courses by  Santa Fe Institute] &#x2605;
-- [How to find Waldo, using computer vision](https://stackoverflow.com/q/8479058/4928430) [Image Processing, Mathematica, stackoverflow] &#x2605;
+- [Complexity Explorer](https://www.complexityexplorer.org) [ Math MOOC courses by  Santa Fe Institute]
+- [How to find Waldo, using computer vision](https://stackoverflow.com/q/8479058/4928430) [Image Processing, Mathematica, stackoverflow]
 - [lhs2TeX](http://hackage.haskell.org/package/lhs2tex-1.18.1) [generate LaTeX code from Haskell, hackage link]
 - [Resources to write a chess engine](https://stackoverflow.com/a/502029/4928430) [chess, stackoverflow]
 
-### Readings <!-- Of course no affiliate links at all! :) --> 
+### Readings <!-- No affiliate links at all! :) --> 
 ---
 
 ### Fiction/Non fiction.
-
-The ratings are totally personal which will differ from person to person.
+ 
+The ratings are totally personal which will differ from person to person. A more up to date list is at <a href="https://www.goodreads.com/user/show/41197270-ankit" style="border-bottom: 1px dotted #6c34ef;">Goodreads.</a>
 
 - <del>[Origin, Dan Brown.](https://en.wikipedia.org/wiki/Origin_(Brown_novel))</del> [2017,Dec] &#x2605;
 Mixing evolutionary biology with simulations, artificial intelligence and religion. Sign me up!
@@ -100,7 +108,7 @@ These are some books I have read and find them worth.
 ### Popcorn, TV and Insomnia. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 ---
 
-I watch mosly science fiction and animation. A more <a href="https://letterboxd.com/sudoankit/films/">up to date list</a> is here on letterboxd.
+I watch mosly science fiction and animation. A more <a href="https://letterboxd.com/sudoankit/films/" style="border-bottom: 1px dotted #6c34ef;">up to date list is here on letterboxd.</a>
 
 - [Dunkirk, December, 2017] <font color="gold">&#x2605;</font> Don't loose hope just like the sheppard's tone.
 - [Blade Runner 2049, November, 2017] <font color="gold">&#x2605;</font> Best Neo-noir post apocalyptic cyberpunk science fiction.
@@ -127,14 +135,17 @@ Hall of fame:
 
 (the platform I write is the one I played on, it may be available for your favourite platform too. )
 
+- [Ordia, Loju Games](https://loju.co.uk/ordia.html) &#x2605;, "Ordia is a one-finger action game where you play as a new life form taking its first leaps into a strange and hazardous world." -- I don't know what to write for it, lol. <a href="#" style="border-bottom: 1px dotted #6c34ef;">Read more about this in this post. </a>
 - [Into The Breach, Subset Games](https://subsetgames.com/itb.html) &#x2605;, [MacOS, Steam], A mech chess game with deep strategy, plenty of content, an amazing OST, sweet looking pixel art and clean, informative UI design make you always say, _"Just one more run"_
 - [Inside, Playdead](https://playdead.com/games/inside/), amazing gameplay, story, state-of-the art gamedev, Highly recommended. &#x2605;
 - [Space Plan, Devolver Digital](https://itunes.apple.com/us/app/spaceplan/id1200864554?mt=8) [iOS] [Black Holes, Dimensional Teleporters, Potatoes] [June, 2017] &#x2605;
 - [Monument Valley 2, ustwo](https://itunes.apple.com/us/app/monument-valley-2/id1187265767?mt=8) [iOS] [Art, Art, Puzzle, M. C. Escher, Love] [June, 2017] &#x2605;
 - [Metal Gear Solid V: The Phantom Pain, Konami](http://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/) [PC] [ [Fulton](https://en.wikipedia.org/wiki/Fulton_surface-to-air_recovery_system), Skulls, Snakes ] &#x2605;
-- [Assassin's Creed 2, Brotherhood][PC][2014] AC2 was amazing, great ending, brotherhood, meh. 
+- Assassin's Creed 2, Brotherhood, Relevations [PC][2014,2017,2019] AC2 was amazing, had a great ending. Brotherhood -- alright, Relevations -- meh.
 
 Hall of fame:
+
+- [Clash Royale, Supercell](https://clashroyale.com) <font color="gold">&#x2605;</font>. Easily the best mobile game I have played. Deep amazing stategic plays and every, every game is unique. Brilliant game design. This "card based real time tower rush multiplayer" game is worth playing. I have invested over 250 hours on this.
 
 - [Opus Magnum, Zachtronics](http://www.zachtronics.com/opus-magnum/) <font color="gold">&#x2605;</font>, [Steam, MacOS] :- puzzle-based programming game which gives you absolute freedom to craft and create machines to accomplish alchemical tasks. It's satisfying, it's complex and it pushes you to optimize your solutions. If you're into programming, please, play this masterpiece by Zachtronics.
 

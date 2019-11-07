@@ -28,7 +28,7 @@ There are a few schools nearby my house and from those I chose [Spring Valley Sc
 
 Let's see all this in a bit of detail. 
 
-
+<!-- 
 **Table of Contents**
 
 
@@ -38,7 +38,7 @@ Let's see all this in a bit of detail.
 * TOC
 {:toc}
 
----
+--- -->
 
 #### CRISPR
 
