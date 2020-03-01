@@ -83,6 +83,7 @@ These are some books I have read and find them worth.
 - How to solve it, G Pólya
 - Elementary Number Theory, David M Burton
 - Topology, Munkres
+- Introduction to Linear Algebra, Gilbert Strang.
 
 #### Computer Vision $\cup$ Machine Learning
 
@@ -135,7 +136,7 @@ Hall of fame:
 
 (the platform I write is the one I played on, it may be available for your favourite platform too. )
 
-- [Ordia, Loju Games](https://loju.co.uk/ordia.html) &#x2605;, "Ordia is a one-finger action game where you play as a new life form taking its first leaps into a strange and hazardous world." -- I don't know what to write for it, lol. <a href="#" style="border-bottom: 1px dotted #6c34ef;">Read more about this in this post. </a>
+- [Ordia, Loju Games](https://loju.co.uk/ordia.html) &#x2605;, "Ordia is a one-finger action game where you play as a new life form taking its first leaps into a strange and hazardous world." -- I don't know what to write for it, lol. <a href="#" style="border-bottom: 1px dotted #6c34ef;">Read more about in a post soon.</a>
 - [Into The Breach, Subset Games](https://subsetgames.com/itb.html) &#x2605;, [MacOS, Steam], A mech chess game with deep strategy, plenty of content, an amazing OST, sweet looking pixel art and clean, informative UI design make you always say, _"Just one more run"_
 - [Inside, Playdead](https://playdead.com/games/inside/), amazing gameplay, story, state-of-the art gamedev, Highly recommended. &#x2605;
 - [Space Plan, Devolver Digital](https://itunes.apple.com/us/app/spaceplan/id1200864554?mt=8) [iOS] [Black Holes, Dimensional Teleporters, Potatoes] [June, 2017] &#x2605;

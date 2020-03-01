@@ -31,9 +31,6 @@ Controlling your body and mind is the key to success.
 ***Discipline.***
 
 
-
-
-
 #### Research and References
 
 - Atomic Habits
