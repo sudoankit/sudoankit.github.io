@@ -1,9 +1,9 @@
 ---
 layout: post
-<!-- comments: true -->
-title: "Spring, schools and sorcery! " 
-excerpt: "My teachings at a school about technology and science during spring with a little sorcery.  "
-date: 2018-03-09 07:31:03 +0530
+comments: true
+title: "Spring, schools and sorcery!" 
+excerpt: "My teachings at a school about technology and science during spring with a little sorcery."
+date: 2018-05-03 07:31:03 +0530
 mathjax: true
 
 ---
@@ -11,8 +11,8 @@ mathjax: true
 p {
   text-align: justify;
 }
-</style>
 
+</style>
 
 
 <div class="imgcap">
@@ -24,11 +24,21 @@ It's spring and it's beautiful! At least where I'm at, Kerala. Still, it doesn't
 
 The weather was fantastic and didn't let me sit inside for long. I wanted to go out, enjoy and probably do something productive and then it hit me. Why not teach?
 
-There are a few schools nearby my house and from those I chose [Spring Valley School](https://en.wikipedia.org/wiki/Spring_Valley_School) (becasue it's spring, you got that right!) to teach some classes on a very basic intuition of computer science and a bit genetic engineering. Theory never is great without some real practical experiments so I conducted a small workshop about neural networks. 
+There are a few schools nearby my house and from those I chose [Spring Valley School](https://en.wikipedia.org/wiki/Spring_Valley_School_(Chathamangalam)) (becasue it's spring, you got that right!) to teach some classes on a very basic intuition of computer science and a bit genetic engineering. Theory never is great without some real practical experiments so I conducted a small workshop about neural networks. 
 
 Let's see all this in a bit of detail. 
 
+<!-- 
+**Table of Contents**
+
+
 ---
+
+{: class="table-of-content"}
+* TOC
+{:toc}
+
+--- -->
 
 #### CRISPR
 
@@ -40,7 +50,7 @@ I needed to try and create some intuition of genetic engineering. I went with CR
 My CRISPR slide.</div>
 </div>
 
-**Observations:** Visualizing protein structure using AR would be pretty cool.
+**Observations:** Visualizing protein structure using AR would be pretty cool. 
 
 ---
 
@@ -52,7 +62,7 @@ A demo was of object recognition using `keras` pre trained `resnet` and `VGG19`,
 <div class="imgcap">
 <img src="/assets/school/nn.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
 <div class="thecap" style="text-align:center">
-A simple neural network, from www.euralnetworksanddeeplearning.com by Michael Nielsen</div>
+A simple neural network, figure by <a href="www.neuralnetworksanddeeplearning.com">Michael Nielsen.</a></div>
 </div>
 
 
@@ -75,49 +85,61 @@ P = imagenet_utils.decode_predictions(prediction_img)
 
 ```
 
+This hands-on approach was really beneficial in developing intuition and made the student quite curious. 
+
+<div class="imgcap">
+<img src="/assets/school/obj-recog.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
+<div class="thecap" style="text-align:center"> Thoughtful questions after this experiment. Also lot of humour and laughter was experienced. :) 
+ </div>
+</div>
+
+
+
+<b>Question 1:</b> <i>What if the dataset was not labelled?</i>
+<br>
+<b>Answer and Observations: </b> Memorization in a neural network. Would it still classify/identify correctly? A neural net retaining the learning property even if trained with unlabeled dataset?
+
+
+
+<b>Question 2:</b> <i>Why didn’t it work for my image?</i>
+<br>
+<b>Answer and Observations: </b>  Well, it’s not in the dataset. VGGNet, ResNet don’t have labelled data for your image.  As you might have found out, we haven’t created a general AI yet. An AI which would play chess, help the blind to cross roads and sell you an item just as a freaking salesperson is far off yet.
+
+<hr>
+
+We went ahead with "behind the awesome with science and math" sections on how SpaceX landed with precision (convex optimization), how does Waymo drive autonomously (LIDAR, Sensors and a bit about SLAM) with some touches of what the brain connectome is and video games.
+
+
 #### Safe AI.
 
 Third, a general idea on AI and mostly towards a community which believe AI is safe and really useful to have. Safer AI by demystifying media.
 
+We talked about Sophia, how it's not exactly what the media says and it's great NLP with excellent PR.
+
+As this topic would need me to go deeply into ethics, it's better left for another post or maybe **just not**.
 
 #### SpaceX Falcon Heavy.
 
+The recent news about SpaceX landing a used rocket back was just fabulous. How did they do it? Children get curious and dream of making something similar when they grow up and I thought why not fuel this dream a bit further by explaining a bit of math and the path they should choose? 
 
-
-#### Autonomous Cars.
-
-
-#### Neuroscience.
-
-#### Video Games.
-
-#### Olympiads and Science Fair.
-
-Finally we went ahead with "behind the awesome with science and math" sections on how SpaceX landed with precision (convex optimization), how does Waymo drive autonomously (LIDAR, Sensors and a bit about SLAM) with some touches of what the brain connectome is and video games.
-
-
-### Sorcery.
+Enter the SpaceX Slide which brielfy taught about 
 
 <div class="imgcap">
-<img src="/assets/school/me.png" width="50%">
+<img src="/assets/school/spaceX-Explanation.png" style="border:border:1px solid #021a40; width:100%; height: 40%">
 <div class="thecap" style="text-align:center">
-When you allow kids to draw on your photo. Sorcery!</div>
+Explaining this kids a simple contraint problem! Copyrights: (NAE Bridge/Lars Blackmore/SpaceX) </div>
 </div>
-
-haha, someone started writing the formular for angular velocity!!?, someone drew horns, someone a hat, someone gave me muscles!, I have no clue what that red thing is on the chair!
-
-But the best feeling I get is when someone wrote "come again!".
-
-I will!
 
 ---
 
 This was a fantastic experience in my life and I totally suggest you to try teaching at random schools. It's so much fun!
 
-Ankit.
+Thank you for the love, fam!
+
+**Ankit**
 
 ---
 
-More references I found it apt to add in the end.
 
-Spring Valley School for allowing me to do this, Wikipedia, Nat and Friends, Google Search, 
+
+

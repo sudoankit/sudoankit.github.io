@@ -693,3 +693,12 @@ table.info th {
     list-style-type: decimal;
 }
 
+/*Selection Override*/
+
+::-moz-selection { /* Code for Firefox */
+  background: yellow;
+}
+
+::selection {
+  background: yellow;
+}
