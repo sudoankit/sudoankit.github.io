@@ -136,8 +136,6 @@ These are some books I have read and find them worth.
 
 
 
-
-
 ### Popcorn, TV and Insomnia. <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 ---
 
@@ -163,7 +161,7 @@ Hall of fame:
 - [The Grand Tour (Prime Video) ] <font color="gold">&#x2605;</font> Jezza, Captain Slow and Hamster + GWiz, 'nuff said.
 - [Castlevania ( 2018, Netflix )] <font color="gold">&#x2605;</font> Badass animation + Dracula + Alucard + Belmont = !!!
 
-### Video Games
+<!-- ### Video Games
 ---
 
 (the platform I write is the one I played on, it may be available for your favourite platform too. )
@@ -178,7 +176,7 @@ Hall of fame:
 
 Hall of fame:
 
-- [Clash Royale, Supercell](https://clashroyale.com) <font color="gold">&#x2605;</font>. Easily the best mobile game I have played. Deep amazing stategic plays and every, every game is unique. Brilliant game design. This "card based real time tower rush multiplayer" game is worth playing. I have invested over 250 hours on this.
+- [Clash Royale, Supercell](https://clashroyale.com) <font color="gold">&#x2605;</font>. Easily the best mobile game I have played. Deep amazing stategic plays and every, every game is unique. Brilliant game design. This "card based real time tower rush multiplayer" game is worth playing. 
 
 - [Opus Magnum, Zachtronics](http://www.zachtronics.com/opus-magnum/) <font color="gold">&#x2605;</font>, [Steam, MacOS] :- puzzle-based programming game which gives you absolute freedom to craft and create machines to accomplish alchemical tasks. It's satisfying, it's complex and it pushes you to optimize your solutions. If you're into programming, please, play this masterpiece by Zachtronics.
 
@@ -186,10 +184,9 @@ Hall of fame:
 - [Kerbal Space Program, Squad](https://www.kerbalspaceprogram.com/en/) &#x2605;, [Steam, Windows] Jebediah Kerman has a bad privacy policy. I still like Jebediah Kerman though.
 - [Factorio, Wube Software](https://www.factorio.com), [Steam, Mac] <font color="gold">&#x2605;</font>, the crack for programmers. Cractorio. Warning, don't play this if you respect your time.
 - [Skyrim, Bethesda](https://elderscrolls.bethesda.net/en/skyrim?) [PC] <font color="gold">&#x2605;</font>, see that peak? That's where the game rests. Bethesda's Opus Magnum.
-- [RuneScape, Jagex](https://www.runescape.com) [Mac] <font color="gold">&#x2605;</font>, F$**$k, nearly wasted my life. I have put 1200+ hours spanning 9 years. 
 
 <!-- - [Inside, Playdead]()
 - [Far Cry 3, Ubisoft]()
 - [] -->
- 
+  -->
 
