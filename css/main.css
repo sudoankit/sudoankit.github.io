@@ -17,54 +17,6 @@
   padding: 0;
 }
 
-/* Pace Loader Start */
-
-/* PACE PROGRESS LOADER */
-
-.pace {
-  -webkit-pointer-events: none;
-  pointer-events: none;
-
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
-
-.pace.pace-inactive .pace-progress {
-  display: none;
-}
-
-.pace .pace-progress {
-  position: fixed;
-  z-index: 2000;
-  top: 0;
-  right: 0;
-  height: 5rem;
-  width: 5rem;
-
-  -webkit-transform: translate3d(0, 0, 0) !important;
-  -ms-transform: translate3d(0, 0, 0) !important;
-  transform: translate3d(0, 0, 0) !important;
-}
-
-.pace .pace-progress:after {
-  display: block;
-  position: absolute;
-  top: 0;
-  right: .5rem;
-  content: attr(data-progress-text);
-  font-family: "Helvetica Neue", sans-serif;
-  font-weight: 100;
-  font-size: 5rem;
-  line-height: 1;
-  text-align: right;
-  color: rgba(0, 0, 0, 0.19999999999999996);
-}
-
-
-
-/* Pace Loader End */
-
 
 html, body { height: 100%; }
 
@@ -82,7 +34,7 @@ body {
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { 
-  color: #6c34ef; 
+  color: #22f;
   text-decoration: none; 
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -94,7 +46,7 @@ a         {
 
 }
 a:hover   { 
-  color: #6c34ef; 
+  color: #22f; 
   opacity: 0.5;
 
 }
@@ -130,7 +82,7 @@ hr {
 
 .site-header {
 
-  border-top: 6px solid #6c34ef;
+  border-top: 6px solid #22f;
   /*border-bottom: 1px solid #e8e8e8;*/
   height: 52px;
   background-color: white;
@@ -145,19 +97,20 @@ hr {
     "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif;
-    font-weight: 500;
+  font-weight: 500;
   display: inline-block;
 
   text-decoration: underline;
-  color: #6c34ef; 
   letter-spacing: 0px;
   float: left;
   line-height: 66px;
   position: relative;
   font-size: 46px;
   z-index: 1;
+  color: #22f;
    
 }
+
 
 .site-nav {
   float: right;
@@ -316,32 +269,11 @@ hr {
 }
 
 .post-content a {
-    border-bottom: 1px dotted #6c34ef;
+    border-bottom: 1px dotted #22f;
     padding-bottom: 1px;
 
 }
 
-
-.post-content blockquote {
-  /*border-left: 4px solid #000000;*/
-  /*border-right: 4px solid #000000;*/
-  /*border-top: 2px solid #000000;
-  border-bottom: 2px solid #000000;*/
-  padding-left: 7px;
-  padding-right: 7px;
-  padding-top: 7px;
-  padding-bottom: 7px;
-  font-size: 18px;
-  border: solid 2px;
-  box-shadow: 7px 7px 0 0 #6c34ef;
-
-  opacity: 1;
-  color: #6c34ef;
-
-  font-family: inherit;
-  font-style: italic;
-  margin: 30px 0;
-}
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
