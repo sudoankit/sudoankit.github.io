@@ -51,7 +51,7 @@ p {
 
 <!-- end d3.js style -->
 
-Let's dive into some mathematics today (Friday) ( maybe every alternate Friday a mathematically inclined post?), in particular graph theory, to understand what **triangulation** is.
+Let's dive into some mathematics today, in particular graph theory, to understand what **triangulation** is.
 
 <div class="definition">
 <strong>Definition 1.1.</strong> Let $P =  \{p_1,\ldots ,p_n \} $ be a point set. A triangulation of $P$ is a maximal planar subdivision with vertex set $P$ which has $2n - 2 - k$ triangles and $3n - 3 - k$ edges where $k$ is the number of points in P on the convex hull of $ P $.
@@ -118,9 +118,9 @@ Now finally let's define what **Delaunay Triangulation** is,
 <strong>Theorem 1.2.</strong> Let $P$ be a set of points in the plane, and let $T$ be a triangulation of $P$. Then $T$ is a Delaunay triangulation of $P$ if and only if the circumcircle of any triangle of $T$ does not contain a point of $P$ in its interior. &#x2751;
 </div>
 
-This finishes the defination.
+This finishes the definition.
 
-
+Please comment if you didn't understand something.
 
 
 

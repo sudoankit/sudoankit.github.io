@@ -1,20 +1,16 @@
-# Ankit's Blog.
+# Research Blog.
 
-My personal blog where I write about Math, AI, Neuroscience and Futurology. I'm thinking to review video games and books from next year. Maybe. Well, propably. Huh, we will know soon.
+This is my research blog where I post longer, serious and quality articles. If you want to check my usual-casual daily blog it's this: [Atomic Thoughts](https://a-t.netlify.app/).
 
 ## Tech Stack
 
-I made this blog using Jekyll, the theme is the exact same one Andrej Karpathy uses in his blog with but with CSS changes by me for mathjax, inline pictures and math posts.
+I made this blog using Jekyll, the theme is the exact same one Andrej Karpathy uses in his blog with but with CSS changes by me for mathjax, inline pictures and math posts. I have also removed much design elements to embrace a minimal, black and white design. 
 
 The interactive diagrams are mostly made using d3.js and the libraries I use for particular posts can be found in the references/credits in THAT post.
 
-The loading visuals uses the PACE Progress Loader by Hubspot. 
-
 ## Ethics
 
-I will never run any ads in my blog or any personal website. If you see something blocked by your adblocker it's probably my Google Analytics script. Sorry. 
-
-I suggest using uBlock Origin(free) + Firefox or Chrome or Wipr($2, no, I am not promoting it) for Safari (uBlock origin is better but Safari 13 doesn't support it anymore).
+I will never run any ads in my blog or any personal website. ~~If you see something blocked by your adblocker it's probably my Google Analytics script. Sorry.~~ Google Analytics has been removed along with Disqus. Comments are now powered by utteranc.es. 
 
 ## License
 
