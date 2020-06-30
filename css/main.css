@@ -4,13 +4,6 @@
 /* Google Fonts Import  */
 
 
-.yellow-highlight {
-  text-shadow: 
-    -3px 0px 3px yellow,
-     3px 0px 3px yellow,
-     6px 0px 6px yellow,
-    -6px 0px 6px yellow;
-}
 
 * {
   margin: 0;
@@ -22,9 +15,7 @@ html, body { height: 100%; }
 
 body {
   font-family: -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans",
-    "Droid Sans", "Helvetica Neue", sans-serif;
+  "Helvetica Neue", sans-serif;
   font-size: 16px;
   line-height: 1.6;
   font-weight: 300;
@@ -33,23 +24,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { 
-  color: #22f;
-  text-decoration: none; 
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  
-   transition:.3s;
-
-
-}
-a:hover   { 
-  color: #22f; 
-  opacity: 0.5;
-
-}
+a         { color: #2a7ae2; text-decoration: none; }
+a:hover   { color: #000; text-decoration: underline; }
+a:visited { color: #205caa; }
 /*a:visited { color: #AEB6BF; }*/
 
 /* Utility */
@@ -82,7 +59,7 @@ hr {
 
 .site-header {
 
-  border-top: 6px solid #22f;
+  border-top: 6px solid #000;
   /*border-bottom: 1px solid #e8e8e8;*/
   height: 52px;
   background-color: white;
@@ -105,12 +82,11 @@ hr {
   float: left;
   line-height: 66px;
   position: relative;
-  font-size: 46px;
+  font-size: 36px;
   z-index: 1;
-  color: #22f;
+  color: #000;
    
 }
-
 
 .site-nav {
   float: right;
@@ -268,11 +244,11 @@ hr {
   letter-spacing: -0.25px;
 }
 
-.post-content a {
+/*.post-content a {
     border-bottom: 1px dotted #22f;
     padding-bottom: 1px;
 
-}
+}*/
 
 
 .post-content ul,
